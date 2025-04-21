@@ -3578,3 +3578,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Apr2025 02:31:34.624] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
 [21Apr2025 02:31:34.625] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [21Apr2025 03:08:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Waterworld]
+[21Apr2025 03:09:14.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[21Apr2025 03:09:40.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10300ms or 206 ticks behind
+[21Apr2025 03:10:16.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14399ms or 287 ticks behind
+[21Apr2025 03:10:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 03:10:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[21Apr2025 03:20:46.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[21Apr2025 03:20:46.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[21Apr2025 03:21:38.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Back to childhood]
+[21Apr2025 03:21:38.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Not even afraid of death]
+[21Apr2025 03:27:05.478] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d54f865
+[21Apr2025 03:27:05.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:41259] logged in with entity id 35627 at (-253.31108319447836, 113.0, -846.8100024202715)
+[21Apr2025 03:27:05.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[21Apr2025 03:27:05.560] [Server thread/INFO] [Jade/]: Syncing config to infouni25 (a3fcb38a-3043-37b8-b12f-8616be1e78e0)
+[21Apr2025 03:27:05.561] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[21Apr2025 03:27:05.563] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[21Apr2025 03:27:08.103] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[21Apr2025 03:27:08.105] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[21Apr2025 03:27:08.106] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[21Apr2025 03:27:08.108] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[21Apr2025 03:27:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y ese pata
+[21Apr2025 03:27:18.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[21Apr2025 03:27:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> como k ya nose podia entrar
+[21Apr2025 03:27:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya lo arregle ya
+[21Apr2025 03:29:42.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of arturrssb) moved wrongly! 0.475341796875
+[21Apr2025 03:29:42.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of arturrssb) moved wrongly! 0.475341796875
+[21Apr2025 03:29:42.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of arturrssb) moved wrongly! 0.475341796875
+[21Apr2025 03:29:43.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of arturrssb) moved wrongly! 0.475341796875

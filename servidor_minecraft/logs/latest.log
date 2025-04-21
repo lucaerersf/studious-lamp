@@ -3567,3 +3567,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Apr2025 01:23:11.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
 [21Apr2025 02:03:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Apr2025 02:03:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[21Apr2025 02:31:29.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@673ca65c
+[21Apr2025 02:31:29.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.108.196.61:41851] logged in with entity id 11540 at (-290.4826189656585, 119.0, -761.3959738057399)
+[21Apr2025 02:31:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[21Apr2025 02:31:29.514] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[21Apr2025 02:31:29.515] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[21Apr2025 02:31:29.516] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[21Apr2025 02:31:34.623] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[21Apr2025 02:31:34.623] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[21Apr2025 02:31:34.624] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[21Apr2025 02:31:34.625] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

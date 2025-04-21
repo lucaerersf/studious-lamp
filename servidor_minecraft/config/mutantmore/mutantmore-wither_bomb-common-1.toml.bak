@@ -1,0 +1,7 @@
+#Configure Mutant More's Wither Bomb on the client and server sides (these changes will affect everyone in the world)! The game needs to be restarted for changes to take effect!
+#
+# The range that a Wither Bomb can detect mobs that cause it to activate in
+# usually set to 7.5
+"Detection Range" = 7.5
+"Damage Range" = 7.5
+

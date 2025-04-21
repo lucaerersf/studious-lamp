@@ -3635,3 +3635,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Apr2025 03:45:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> maso
 [21Apr2025 03:45:53.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> entra a una cueva grande y se ve a simple vista
 [21Apr2025 03:50:47.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Apr2025 03:51:07.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5698ms or 113 ticks behind
+[21Apr2025 03:51:26.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
+[21Apr2025 03:52:35.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Apr2025 03:53:59.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=633, y=64, z=-3139} BlockPos{x=632, y=62, z=-3141}
+[21Apr2025 03:57:19.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[21Apr2025 03:57:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game

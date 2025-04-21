@@ -3641,3 +3641,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Apr2025 03:53:59.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=633, y=64, z=-3139} BlockPos{x=632, y=62, z=-3141}
 [21Apr2025 03:57:19.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
 [21Apr2025 03:57:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[21Apr2025 04:24:10.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[21Apr2025 04:24:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[21Apr2025 04:24:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Apr2025 04:24:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Apr2025 04:24:24.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Apr2025 04:24:24.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Apr2025 04:24:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Apr2025 04:24:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Apr2025 04:24:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Apr2025 04:24:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[21Apr2025 04:24:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Apr2025 04:24:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Apr2025 04:24:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Apr2025 04:24:25.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21Apr2025 04:24:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

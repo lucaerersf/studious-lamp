@@ -916,6 +916,7 @@
       "minecraft:slime": "2025-04-21 03:54:27 +0000",
       "minecraft:witch": "2025-04-20 17:04:56 +0000",
       "minecraft:wither_skeleton": "2025-04-18 22:42:25 +0000",
+      "minecraft:husk": "2025-04-21 04:13:02 +0000",
       "minecraft:piglin": "2025-04-17 18:05:23 +0000",
       "minecraft:enderman": "2025-04-17 17:34:20 +0000",
       "minecraft:stray": "2025-04-17 23:14:59 +0000",
@@ -1861,11 +1862,16 @@
       "minecraft:old_growth_pine_taiga": "2025-04-17 18:22:28 +0000",
       "minecraft:taiga": "2025-04-17 18:23:23 +0000",
       "minecraft:deep_ocean": "2025-04-21 03:26:01 +0000",
+      "minecraft:eroded_badlands": "2025-04-21 04:14:30 +0000",
       "minecraft:frozen_river": "2025-04-17 18:25:21 +0000",
       "minecraft:birch_forest": "2025-04-21 03:20:53 +0000",
+      "minecraft:wooded_badlands": "2025-04-21 04:09:49 +0000",
+      "minecraft:badlands": "2025-04-21 04:09:53 +0000",
       "minecraft:beach": "2025-04-21 03:17:42 +0000",
       "minecraft:dark_forest": "2025-04-21 03:17:30 +0000",
+      "minecraft:sparse_jungle": "2025-04-21 04:18:00 +0000",
       "minecraft:river": "2025-04-18 01:30:30 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-21 04:02:10 +0000",
       "minecraft:snowy_plains": "2025-04-17 18:25:18 +0000",
       "minecraft:stony_shore": "2025-04-21 02:53:06 +0000",
       "minecraft:snowy_taiga": "2025-04-17 18:25:54 +0000",
@@ -1879,11 +1885,13 @@
       "minecraft:deep_cold_ocean": "2025-04-21 03:09:15 +0000",
       "minecraft:ice_spikes": "2025-04-21 02:57:10 +0000",
       "minecraft:frozen_ocean": "2025-04-21 02:57:43 +0000",
+      "minecraft:desert": "2025-04-21 04:06:56 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-21 02:58:14 +0000",
       "minecraft:ocean": "2025-04-21 03:15:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 17:22:31 +0000",
       "minecraft:snowy_beach": "2025-04-21 03:48:52 +0000",
       "minecraft:windswept_savanna": "2025-04-21 04:00:49 +0000",
+      "minecraft:warm_ocean": "2025-04-21 04:06:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-21 03:22:43 +0000",
       "minecraft:deep_dark": "2025-04-18 03:28:42 +0000",
       "minecraft:meadow": "2025-04-18 01:36:29 +0000",
@@ -2340,6 +2348,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-21 04:07:01 +0000"
     },
     "done": true
   },
@@ -4097,6 +4111,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-17 18:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-21 04:21:37 +0000"
     },
     "done": true
   },

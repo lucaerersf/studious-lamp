@@ -3565,3 +3565,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Apr2025 01:23:11.109] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [21Apr2025 01:23:11.109] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [21Apr2025 01:23:11.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[21Apr2025 02:03:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 02:03:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]

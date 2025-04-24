@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-24 04:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:02:29 +0000"
@@ -644,6 +650,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-24 04:54:01 +0000"
     },
     "done": true
   },
@@ -944,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 04:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-04-18 21:32:44 +0000"
@@ -1157,6 +1175,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-17 17:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-24 04:54:09 +0000"
     },
     "done": true
   },
@@ -1409,6 +1433,12 @@
   "minecraft:recipes/travelersbackpack/ocelot_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-24 04:54:01 +0000"
     },
     "done": true
   },
@@ -1832,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 04:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 17:57:42 +0000"
@@ -2246,6 +2282,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-18 01:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 04:39:50 +0000"
     },
     "done": true
   },
@@ -3289,6 +3331,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-18 01:33:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 04:47:58 +0000"
     },
     "done": true
   },

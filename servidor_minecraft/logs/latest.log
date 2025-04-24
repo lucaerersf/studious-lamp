@@ -3552,3 +3552,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [24Apr2025 04:27:08.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ç<--[HERE]
 [24Apr2025 04:27:11.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
 [24Apr2025 04:37:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamakalata
+[24Apr2025 04:47:58.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [What an excellent day for an exorcism]
+[24Apr2025 04:53:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[24Apr2025 04:53:05.729] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[24Apr2025 04:53:05.729] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[24Apr2025 04:54:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Chest Slayer]
+[24Apr2025 04:54:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has completed the challenge [It Spreads]

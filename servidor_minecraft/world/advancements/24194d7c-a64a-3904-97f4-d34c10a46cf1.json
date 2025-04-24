@@ -528,7 +528,9 @@
       "minecraft:spider": "2025-04-17 19:27:41 +0000",
       "minecraft:creeper": "2025-04-19 23:27:08 +0000",
       "minecraft:stray": "2025-04-17 17:58:19 +0000",
-      "minecraft:zombie": "2025-04-17 19:23:04 +0000"
+      "minecraft:enderman": "2025-04-24 04:59:57 +0000",
+      "minecraft:zombie": "2025-04-17 19:23:04 +0000",
+      "minecraft:zombie_villager": "2025-04-24 05:01:04 +0000"
     },
     "done": false
   },

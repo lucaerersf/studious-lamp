@@ -121,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 17:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-26 17:00:30 +0000"
@@ -388,7 +394,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 17:21:32 +0000",
-      "rotten_flesh": "2025-04-26 17:13:52 +0000"
+      "rotten_flesh": "2025-04-26 17:13:52 +0000",
+      "golden_carrot": "2025-04-26 17:53:49 +0000"
     },
     "done": false
   },

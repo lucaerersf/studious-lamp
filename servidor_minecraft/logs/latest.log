@@ -4013,3 +4013,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 20:10:08.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> voy a almorzar
 [01May2025 20:10:12.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [01May2025 20:10:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[01May2025 20:22:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Ashes 'n Bones]

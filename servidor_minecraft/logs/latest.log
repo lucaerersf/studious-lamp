@@ -4101,3 +4101,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 22:34:11.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
 [01May2025 22:34:30.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
 [01May2025 22:34:54.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01May2025 22:40:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias
+[01May2025 22:41:07.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [We Need to Go Deeper]
+[01May2025 22:41:22.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [A Terrible Fortress]
+[01May2025 22:42:18.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho was kicked for floating too long!
+[01May2025 22:42:18.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Flying is not enabled on this server
+[01May2025 22:42:18.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[01May2025 22:42:22.978] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ca1c768
+[01May2025 22:42:22.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:46549] logged in with entity id 93567 at (-28.546850377504796, 46.27588138972611, 23.873330593800002)
+[01May2025 22:42:22.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[01May2025 22:42:22.990] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[01May2025 22:42:22.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[01May2025 22:42:22.990] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[01May2025 22:42:24.044] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 22:42:24.044] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 22:42:24.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 22:42:24.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 22:44:15.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Take Aim]

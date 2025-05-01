@@ -7644,3 +7644,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 19:49:48.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 19:54:48.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 19:54:48.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 19:59:48.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 19:59:48.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 20:04:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quien me rompio la armadura
+[01May2025 20:04:48.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 20:04:48.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 20:04:59.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -10.07811090516634,0.41458485033437853,-0.0642508469530867

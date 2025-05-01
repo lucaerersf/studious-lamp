@@ -3989,3 +3989,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 19:38:30.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si no lo encuentro nos vamos a la mierda
 [01May2025 19:45:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> f
 [01May2025 19:45:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> equipense para ir
+[01May2025 20:04:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quien me rompio la armadura
+[01May2025 20:04:59.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -10.07811090516634,0.41458485033437853,-0.0642508469530867

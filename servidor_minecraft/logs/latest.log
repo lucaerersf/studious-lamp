@@ -3972,3 +3972,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 19:23:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> manda tpa tony
 [01May2025 19:23:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias
 [01May2025 19:23:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> de nada parcero carechimba
+[01May2025 19:27:49.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Syntho: Kicked by an operator
+[01May2025 19:27:49.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Kicked by an operator
+[01May2025 19:27:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[01May2025 19:27:55.634] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fd2969d
+[01May2025 19:27:55.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:33921] logged in with entity id 46953 at (-290.4564294343811, 119.0, -765.1017119998444)
+[01May2025 19:27:55.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[01May2025 19:27:55.709] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[01May2025 19:27:55.710] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[01May2025 19:27:55.710] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[01May2025 19:28:01.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:28:01.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 19:28:01.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:28:01.045] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

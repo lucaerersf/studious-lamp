@@ -3991,3 +3991,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 19:45:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> equipense para ir
 [01May2025 20:04:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quien me rompio la armadura
 [01May2025 20:04:59.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -10.07811090516634,0.41458485033437853,-0.0642508469530867
+[01May2025 20:07:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01May2025 20:07:57.324] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[01May2025 20:07:57.326] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[01May2025 20:07:59.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[01May2025 20:07:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[01May2025 20:08:12.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a778cbc
+[01May2025 20:08:12.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:34599] logged in with entity id 57148 at (-295.9545563535889, 119.0, -777.1579228500259)
+[01May2025 20:08:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[01May2025 20:08:12.800] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[01May2025 20:08:12.802] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[01May2025 20:08:12.804] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[01May2025 20:08:15.654] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 20:08:15.655] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 20:08:15.674] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 20:08:15.674] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 20:08:36.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01May2025 20:08:36.688] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[01May2025 20:08:36.690] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[01May2025 20:10:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lasd dos cosas
+[01May2025 20:10:08.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> voy a almorzar
+[01May2025 20:10:12.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[01May2025 20:10:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

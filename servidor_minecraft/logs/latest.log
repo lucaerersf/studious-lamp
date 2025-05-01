@@ -3634,3 +3634,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 05:53:15.401] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [01May2025 05:53:15.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [01May2025 05:53:15.402] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 05:56:48.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 6.265213996203386,-3.355085862357086,-7.204085388641488
+[01May2025 05:57:00.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb was kicked for floating too long!
+[01May2025 05:57:00.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Flying is not enabled on this server
+[01May2025 05:57:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[01May2025 05:57:26.434] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1022b48b
+[01May2025 05:57:26.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.49.185.88:46403] logged in with entity id 4390 at (-272.3969447253496, 121.45925812921408, -770.805836053972)
+[01May2025 05:57:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[01May2025 05:57:26.505] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[01May2025 05:57:26.505] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[01May2025 05:57:26.506] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[01May2025 05:57:31.125] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 05:57:31.126] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 05:57:31.129] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 05:57:31.130] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 06:01:44.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=69, z=-75} BlockPos{x=-47, y=69, z=-74}
+[01May2025 06:02:53.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 2.2584003996918725,-8.0,5.597937701707195
+[01May2025 06:03:18.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01May2025 06:03:30.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb was kicked for floating too long!
+[01May2025 06:03:30.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Flying is not enabled on this server
+[01May2025 06:03:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[01May2025 06:03:38.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c4df298
+[01May2025 06:03:38.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.49.185.88:56887] logged in with entity id 7484 at (-68.9389052795217, 35.51679398321416, -129.17726120725442)
+[01May2025 06:03:38.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[01May2025 06:03:38.869] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[01May2025 06:03:38.870] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[01May2025 06:03:38.871] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[01May2025 06:03:40.781] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 06:03:40.783] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 06:03:40.785] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[01May2025 06:03:40.786] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

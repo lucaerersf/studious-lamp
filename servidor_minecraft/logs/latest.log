@@ -3912,3 +3912,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 19:11:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> PARCE COMO TAMOS POR AHI
 [01May2025 19:11:15.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> meh
 [01May2025 19:11:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya sabe que eres de italia
+[01May2025 19:13:54.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01May2025 19:14:16.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[01May2025 19:14:51.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho was kicked for floating too long!
+[01May2025 19:14:51.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Flying is not enabled on this server
+[01May2025 19:14:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[01May2025 19:15:03.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@633e71a9
+[01May2025 19:15:03.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:47121] logged in with entity id 41620 at (2443.3189110264557, 31.886474290943678, -971.2311487841438)
+[01May2025 19:15:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[01May2025 19:15:03.106] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[01May2025 19:15:03.106] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[01May2025 19:15:03.106] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[01May2025 19:15:04.889] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:15:04.889] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 19:15:04.891] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:15:04.892] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 19:15:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> que paso señora
+[01May2025 19:15:23.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esq tengo un anillo q me da caida de pluma
+[01May2025 19:15:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> te enojaste porque le dije a tony de que eres de venezuela?
+[01May2025 19:15:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero si salto desde muy alto piensa que estoy volando
+[01May2025 19:15:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y me banea del server
+[01May2025 19:15:43.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> vale mas tarde le quito esa opcion
+[01May2025 19:16:42.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me encontre a chicken joc
+[01May2025 19:16:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[01May2025 19:17:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ayudame a buscar a los cangrejos
+[01May2025 19:17:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y si no usamos proteccion con el leviatan?
+[01May2025 19:18:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> es lo que te pregunte hace media hora
+[01May2025 19:18:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> en ese entonces no sabia que los cangrejos eran el mob mas raro del juego
+[01May2025 19:19:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ./generate cangrejo
+[01May2025 19:19:17.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no encuentro nada parcero
+[01May2025 19:19:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> es sin el .
+[01May2025 19:19:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no sera que se consiguen en cuevas de amatista?
+[01May2025 19:19:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esq el item se llama carne de cangrejo amatista
+[01May2025 19:19:40.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
+[01May2025 19:19:47.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> decia cuevas frondosas
+[01May2025 19:19:54.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y lo mostro
+[01May2025 19:20:12.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero son enormes xd
+[01May2025 19:20:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asi q es imposible q no lo veamos
+[01May2025 19:20:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que sean mis bolas
+[01May2025 19:20:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[01May2025 19:20:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya me aburrei guei
+[01May2025 19:21:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> entonces?
+[01May2025 19:21:51.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no proteshion
+[01May2025 19:22:07.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho was kicked for floating too long!
+[01May2025 19:22:07.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Flying is not enabled on this server
+[01May2025 19:22:07.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[01May2025 19:22:12.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12371389
+[01May2025 19:22:12.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:42797] logged in with entity id 45023 at (-102.06268439077336, -31.724118610273862, -64.68103913989154)
+[01May2025 19:22:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[01May2025 19:22:12.962] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[01May2025 19:22:12.963] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[01May2025 19:22:12.965] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[01May2025 19:22:15.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> baneado
+[01May2025 19:22:16.009] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:22:16.010] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 19:22:16.070] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[01May2025 19:22:16.071] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 19:22:55.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> como puedo ir a la base
+[01May2025 19:23:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> manda tpa tony
+[01May2025 19:23:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias
+[01May2025 19:23:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> de nada parcero carechimba

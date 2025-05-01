@@ -4131,3 +4131,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 22:47:11.522] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [01May2025 22:47:11.522] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
 [01May2025 22:47:11.523] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[01May2025 23:00:02.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[01May2025 23:00:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game

@@ -9333,3 +9333,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [01May2025 22:50:15.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 22:55:15.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 22:55:15.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:00:02.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[01May2025 23:00:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[01May2025 23:00:15.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:00:15.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:05:15.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:05:15.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -5986,3 +5986,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 16:55:30.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02May2025 17:00:30.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 17:00:30.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 17:05:30.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 17:05:30.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 17:07:23.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 17:07:23.191] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[02May2025 17:07:23.205] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[02May2025 17:08:38.128] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID f88640b0-773f-4d18-b585-83b00ef9658e
+[02May2025 17:08:38.135] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -271 Y: 119 Z: -780
+[02May2025 17:08:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by Iron Golem
+[02May2025 17:08:38.150] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumamakalata was created at position [x:-272, y:119, z:-781, dim:minecraft:overworld]
+[02May2025 17:10:30.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 17:10:30.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

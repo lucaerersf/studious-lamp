@@ -2727,6 +2727,7 @@
       "minecraft:ravager": "2025-04-20 17:04:44 +0000",
       "minecraft:ghast": "2025-04-18 22:03:26 +0000",
       "minecraft:hoglin": "2025-04-18 21:49:13 +0000",
+      "minecraft:guardian": "2025-05-02 05:17:57 +0000",
       "minecraft:vindicator": "2025-04-20 17:03:23 +0000",
       "minecraft:magma_cube": "2025-04-19 04:59:45 +0000",
       "minecraft:spider": "2025-04-17 17:31:18 +0000",
@@ -3325,10 +3326,12 @@
       "minecraft:desert": "2025-04-21 04:06:56 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-21 02:58:14 +0000",
       "minecraft:ocean": "2025-04-21 03:15:27 +0000",
+      "minecraft:jungle": "2025-05-02 05:09:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 17:22:31 +0000",
       "minecraft:snowy_beach": "2025-04-21 03:48:52 +0000",
       "minecraft:windswept_savanna": "2025-04-21 04:00:49 +0000",
       "minecraft:warm_ocean": "2025-04-21 04:06:36 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-02 05:15:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-21 03:22:43 +0000",
       "minecraft:deep_dark": "2025-04-18 03:28:42 +0000",
       "minecraft:meadow": "2025-04-18 01:36:29 +0000",
@@ -4222,6 +4225,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 20:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-02 05:20:39 +0000"
     },
     "done": true
   },

@@ -1873,6 +1873,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-05-02 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:02:29 +0000"
@@ -2230,6 +2236,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_warden_carapace": {
+    "criteria": {
+      "carapace": "2025-05-02 02:35:07 +0000"
     },
     "done": true
   },
@@ -2662,6 +2674,12 @@
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2025-04-21 03:08:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-05-02 02:35:07 +0000"
     },
     "done": true
   },

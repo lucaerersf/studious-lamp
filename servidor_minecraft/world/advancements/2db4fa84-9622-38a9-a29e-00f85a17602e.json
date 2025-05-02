@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-02 19:14:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-17 18:02:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-02 19:10:41 +0000"
     },
     "done": true
   },
@@ -1083,7 +1095,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-17 18:05:15 +0000",
       "minecraft:soul_sand_valley": "2025-04-17 18:04:07 +0000",
-      "minecraft:nether_wastes": "2025-05-01 23:50:06 +0000"
+      "minecraft:nether_wastes": "2025-05-01 23:50:06 +0000",
+      "minecraft:warped_forest": "2025-05-02 18:35:22 +0000"
     },
     "done": false
   },
@@ -1174,6 +1187,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-17 18:02:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-05-02 19:42:43 +0000"
     },
     "done": true
   },
@@ -1348,6 +1367,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-04-18 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-02 19:14:26 +0000"
     },
     "done": true
   },
@@ -1714,6 +1739,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-19 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-02 19:14:26 +0000"
     },
     "done": true
   },
@@ -2491,6 +2522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-02 18:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-17 17:25:02 +0000"
@@ -3252,6 +3289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-02 19:14:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-17 17:25:54 +0000"
@@ -3938,6 +3981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-02 18:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-17 17:29:50 +0000"
@@ -4268,6 +4317,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-05-02 18:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
@@ -4475,6 +4530,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-17 18:06:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-02 19:14:35 +0000"
     },
     "done": true
   },

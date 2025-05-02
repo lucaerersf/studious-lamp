@@ -3641,3 +3641,62 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 00:56:06.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [02May2025 00:56:06.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [02May2025 00:56:06.687] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:02:30.668] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cdbbe7d
+[02May2025 01:02:30.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:60587] logged in with entity id 7608 at (-265.4502801345089, 119.0, -773.1997367322442)
+[02May2025 01:02:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[02May2025 01:02:30.731] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[02May2025 01:02:30.735] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[02May2025 01:02:30.736] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[02May2025 01:02:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[02May2025 01:02:39.927] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 01:02:39.928] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:02:39.966] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 01:02:39.967] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:03:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola
+[02May2025 01:03:17.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> QUEES ESOOOOOO
+[02May2025 01:03:25.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> espera
+[02May2025 01:03:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dice antony si quieres entrar a la llamada
+[02May2025 01:03:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> dile no, lo siento mucho
+[02May2025 01:04:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya oiste tony
+[02May2025 01:04:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dice que te odia
+[02May2025 01:04:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola arturito
+[02May2025 01:04:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[02May2025 01:04:43.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> WOOOOOOOOOOOOOOOW
+[02May2025 01:05:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> dile a t ony que esta increíble su mata yisus
+[02May2025 01:05:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dice que por que mata yisus
+[02May2025 01:05:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> explicale la historia y su relacion con yisus
+[02May2025 01:05:51.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya vamos air a matmatar rame l lievatian?
+[02May2025 01:06:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yes
+[02May2025 01:06:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero a q te refieres con mata yisus
+[02May2025 01:06:35.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[02May2025 01:06:35.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[02May2025 01:06:40.587] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35fb781e
+[02May2025 01:06:40.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:60065] logged in with entity id 8799 at (-260.91506681723405, 119.0, -762.0342224878509)
+[02May2025 01:06:40.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[02May2025 01:06:40.743] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[02May2025 01:06:40.745] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[02May2025 01:06:40.746] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[02May2025 01:06:42.130] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[02May2025 01:06:42.130] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:06:42.130] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[02May2025 01:06:42.131] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:06:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> asi se llama la trmaa que construikmos
+[02May2025 01:06:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> NOOOOOOOOO
+[02May2025 01:07:06.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> e
+[02May2025 01:07:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias por dejarme sin dinero para siempre
+[02May2025 01:08:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tpeame
+[02May2025 01:08:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> losiento no subo gordas
+[02May2025 01:09:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> al leviatan don huevetas
+[02May2025 01:09:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[02May2025 01:09:18.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> dame un minuto
+[02May2025 01:09:25.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> estoy itnentando recuperar el dinero q me hiciste preder
+[02May2025 01:09:46.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> wtf tu cabeza estaba alreves
+[02May2025 01:09:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> es un collar
+[02May2025 01:10:01.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> artefacto
+[02May2025 01:10:09.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hace que los enemigos no me puedan ver a menos que los ataque
+[02May2025 01:10:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> revisa ws
+[02May2025 01:11:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me devuelves mi neth
+[02May2025 01:11:09.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> cual
+[02May2025 01:11:26.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> esta es tu casa?
+[02May2025 01:11:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> voy al baño
+[02May2025 01:16:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [It Spreads]

@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-05-02 20:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 17:21:32 +0000",
@@ -404,6 +410,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-02 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-05-02 20:47:37 +0000"
     },
     "done": true
   },
@@ -657,6 +669,7 @@
       "minecraft:zombified_piglin": "2025-05-01 22:44:04 +0000",
       "minecraft:witch": "2025-05-02 01:58:44 +0000",
       "minecraft:wither_skeleton": "2025-05-01 22:41:54 +0000",
+      "minecraft:husk": "2025-05-02 20:39:57 +0000",
       "minecraft:piglin": "2025-05-01 22:41:33 +0000",
       "minecraft:stray": "2025-05-01 20:22:36 +0000",
       "minecraft:enderman": "2025-05-01 22:42:28 +0000",

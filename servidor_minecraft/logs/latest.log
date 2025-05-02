@@ -3807,3 +3807,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 20:22:48.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [02May2025 20:22:48.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
 [02May2025 20:23:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[02May2025 20:38:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 20:38:31.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: da<--[HERE]
+[02May2025 20:38:31.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 20:38:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[02May2025 20:38:31.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 20:38:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[02May2025 20:38:46.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c1256f9
+[02May2025 20:38:46.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:60979] logged in with entity id 16297 at (-11477.001120653707, 84.0, -11621.011668934463)
+[02May2025 20:38:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[02May2025 20:38:46.490] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[02May2025 20:38:46.493] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[02May2025 20:38:46.496] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[02May2025 20:38:57.733] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 20:38:57.733] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 20:38:57.733] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 20:38:57.733] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 20:39:42.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola hay alguien despeierto?
+[02May2025 20:39:59.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02May2025 20:41:42.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[02May2025 20:41:51.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque tu mensaje me sale como moderado por mojang
+[02May2025 20:41:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> veintidos
+[02May2025 20:42:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ?
+[02May2025 20:42:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> i
+[02May2025 20:42:41.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> am steve
+[02May2025 20:42:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> por que usas freecam
+[02May2025 20:43:11.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 20:43:11.279] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 20:43:11.284] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 20:43:11.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero si eres tu
+[02May2025 20:43:33.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> graci
+[02May2025 20:44:03.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> por donde se entra al salon de la bestia
+[02May2025 20:46:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque me ignoras
+[02May2025 20:46:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> voy a empezar a romper

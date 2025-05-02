@@ -4021,3 +4021,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 02:59:30.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! 10.268257471744846,-0.604424101326714,-2.1823112431345635
 [02May2025 02:59:30.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
 [02May2025 03:03:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Strange Mount]
+[02May2025 03:13:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Black or White]

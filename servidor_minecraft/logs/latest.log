@@ -3581,3 +3581,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 17:08:38.128] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID f88640b0-773f-4d18-b585-83b00ef9658e
 [02May2025 17:08:38.135] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -271 Y: 119 Z: -780
 [02May2025 17:08:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by Iron Golem
+[02May2025 17:36:04.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] va tigre
+[02May2025 17:36:34.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> va va
+[02May2025 17:43:17.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=120, z=-756} BlockPos{x=-261, y=119, z=-756}

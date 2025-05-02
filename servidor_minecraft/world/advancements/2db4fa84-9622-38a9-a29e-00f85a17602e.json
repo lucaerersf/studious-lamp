@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-02 02:39:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-04-17 23:48:39 +0000"
@@ -3364,6 +3370,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-17 18:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-02 02:39:33 +0000"
     },
     "done": true
   },

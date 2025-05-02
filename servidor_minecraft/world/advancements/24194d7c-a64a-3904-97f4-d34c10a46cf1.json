@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-02 01:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 17:59:51 +0000"
@@ -1073,6 +1079,7 @@
       "minecraft:snowy_slopes": "2025-04-17 17:40:16 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-17 17:28:01 +0000",
       "minecraft:taiga": "2025-04-17 17:27:59 +0000",
+      "minecraft:deep_ocean": "2025-05-02 01:21:44 +0000",
       "minecraft:frozen_river": "2025-04-18 03:09:00 +0000",
       "minecraft:beach": "2025-04-20 02:32:17 +0000",
       "minecraft:river": "2025-04-17 17:28:03 +0000",
@@ -1994,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-02 01:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 19:23:12 +0000"
@@ -2465,6 +2478,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-01 06:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-02 01:23:01 +0000"
     },
     "done": true
   },

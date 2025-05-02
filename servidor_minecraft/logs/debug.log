@@ -6608,3 +6608,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 00:35:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> voy hacerlo de vuelta
 [02May2025 00:35:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> si no da
 [02May2025 00:36:01.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> una puerta de madera
+[02May2025 00:36:40.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:36:40.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 00:41:40.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 00:41:40.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

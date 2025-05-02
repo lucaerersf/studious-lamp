@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 22:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-17 17:48:16 +0000"
@@ -782,6 +788,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-04-17 23:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-02 22:27:44 +0000"
     },
     "done": true
   },
@@ -1312,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 22:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-18 19:23:32 +0000"
@@ -1709,9 +1727,17 @@
       "bread": "2025-04-17 17:46:38 +0000",
       "golden_apple": "2025-04-19 23:21:10 +0000",
       "rotten_flesh": "2025-04-17 21:40:01 +0000",
-      "golden_carrot": "2025-04-18 20:57:17 +0000"
+      "golden_carrot": "2025-04-18 20:57:17 +0000",
+      "mushroom_stew": "2025-05-02 22:33:58 +0000",
+      "rabbit_stew": "2025-05-02 22:37:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-05-02 22:27:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

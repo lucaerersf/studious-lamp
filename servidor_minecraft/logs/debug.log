@@ -8160,3 +8160,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 21:47:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> a ti te estresa cuando los arboles salen con down?
 [02May2025 21:48:08.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 21:48:08.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 21:53:08.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 21:53:08.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 21:53:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> donde esta el mini velociraptor?
+[02May2025 21:53:48.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[02May2025 21:53:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[02May2025 21:56:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ahorita vuelvo
+[02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[02May2025 21:58:08.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 21:58:08.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

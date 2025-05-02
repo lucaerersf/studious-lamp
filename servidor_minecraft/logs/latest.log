@@ -4012,3 +4012,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 21:46:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
 [02May2025 21:46:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> era broma no
 [02May2025 21:47:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> a ti te estresa cuando los arboles salen con down?
+[02May2025 21:53:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> donde esta el mini velociraptor?
+[02May2025 21:53:48.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[02May2025 21:53:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[02May2025 21:56:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ahorita vuelvo
+[02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game

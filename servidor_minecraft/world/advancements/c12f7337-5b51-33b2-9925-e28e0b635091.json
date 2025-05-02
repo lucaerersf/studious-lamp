@@ -292,6 +292,7 @@
       "cooked_porkchop": "2025-04-26 17:21:32 +0000",
       "apple": "2025-05-01 19:10:55 +0000",
       "bread": "2025-05-01 06:00:12 +0000",
+      "golden_apple": "2025-05-02 19:44:29 +0000",
       "rotten_flesh": "2025-04-26 17:13:52 +0000",
       "glow_berries": "2025-05-01 18:09:20 +0000",
       "golden_carrot": "2025-04-26 17:53:49 +0000"
@@ -361,6 +362,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-04-26 16:46:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-02 19:46:36 +0000"
     },
     "done": true
   },
@@ -1045,6 +1052,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 05:45:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-02 19:46:36 +0000"
     },
     "done": true
   },

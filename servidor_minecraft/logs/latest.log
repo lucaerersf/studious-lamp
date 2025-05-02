@@ -4018,3 +4018,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 21:56:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ahorita vuelvo
 [02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [02May2025 21:56:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[02May2025 22:03:28.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a7d543f
+[02May2025 22:03:28.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:42613] logged in with entity id 33549 at (-262.274239606133, 119.0, -764.4213081406077)
+[02May2025 22:03:28.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[02May2025 22:03:28.967] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[02May2025 22:03:28.969] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[02May2025 22:03:28.969] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[02May2025 22:03:31.574] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 22:03:31.576] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 22:03:31.577] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 22:03:31.577] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

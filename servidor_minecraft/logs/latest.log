@@ -3582,3 +3582,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 00:25:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> flechazo
 [02May2025 00:25:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro
 [02May2025 00:25:18.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> el daño instantaneo dos cura a los zombis cierto?
+[02May2025 00:25:49.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[02May2025 00:25:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[02May2025 00:25:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[02May2025 00:26:55.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola
+[02May2025 00:27:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro el dañisnt instantcio cura zobis
+[02May2025 00:27:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ola
+[02May2025 00:27:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[02May2025 00:27:42.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ire a buscar pergaminos para respirar bajo la lava
+[02May2025 00:28:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[02May2025 00:28:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no jodas otras 4 horas
+[02May2025 00:29:30.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> q paso mama
+[02May2025 00:31:40.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quieres ver mis 2 stacks de bloques de esmeraldas
+[02May2025 00:32:16.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@434d3bcd
+[02May2025 00:32:16.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:43575] logged in with entity id 3434 at (-260.88572295429634, 114.0, -756.5586920790734)
+[02May2025 00:32:16.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[02May2025 00:32:16.424] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[02May2025 00:32:16.425] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[02May2025 00:32:16.426] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[02May2025 00:32:17.912] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[02May2025 00:32:17.913] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 00:32:17.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[02May2025 00:32:17.915] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 00:32:20.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ?
+[02May2025 00:32:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aver
+[02May2025 00:32:49.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[02May2025 00:32:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[02May2025 00:33:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> tony quieres construir un matayisus?
+[02May2025 00:33:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> como es eso?
+[02May2025 00:33:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> es una vieja técnica que se usaba en un servidor llamada awita
+[02May2025 00:33:53.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> te ayudo
+[02May2025 00:34:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> lo que hay que hacer es esto
+[02May2025 00:34:05.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[02May2025 00:34:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[02May2025 00:35:02.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61a8b212
+[02May2025 00:35:02.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:37449] logged in with entity id 3826 at (-278.9051083965089, 119.0, -750.2033489588472)
+[02May2025 00:35:02.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[02May2025 00:35:02.781] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[02May2025 00:35:02.782] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[02May2025 00:35:02.782] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[02May2025 00:35:11.912] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 00:35:11.912] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 00:35:11.913] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 00:35:11.913] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 00:35:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no funciono el mecanismo abre puertas?
+[02May2025 00:35:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> voy hacerlo de vuelta
+[02May2025 00:35:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> si no da
+[02May2025 00:36:01.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> una puerta de madera

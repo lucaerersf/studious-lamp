@@ -3840,3 +3840,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 20:44:03.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> por donde se entra al salon de la bestia
 [02May2025 20:46:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque me ignoras
 [02May2025 20:46:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> voy a empezar a romper
+[02May2025 20:49:17.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> WATER BUCKET RELEASE
+[02May2025 20:49:33.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si no respondo es pq estoy chambeando
+[02May2025 20:49:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> AAAAAAAA
+[02May2025 20:51:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> CREO QUE ENCONTRE UN BUG EN EL MOD
+[02May2025 20:51:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro creo que las trampas no se pueden craftear
+[02May2025 20:54:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque me haces esto
+[02May2025 20:54:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[02May2025 20:55:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque me hace esto
+[02May2025 20:55:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd ya lootee todo
+[02May2025 20:55:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> YO ESTOY BUSCANDO LA ENTRADA A LA CASA DE LA BESTIA
+[02May2025 20:55:32.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> esta abajo
+[02May2025 20:55:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> llevame
+[02May2025 20:55:48.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> a la etnrada
+[02May2025 20:56:12.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> LA ENCONTRE!!!!!!!!!
+[02May2025 20:56:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya puedo descansar en paz
+[02May2025 20:56:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ahora pon varios homes
+[02May2025 21:01:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> qpaso
+[02May2025 21:01:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quiero ir a casa
+[02May2025 21:01:57.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porfabor
+[02May2025 21:02:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> GRACIA
+[02May2025 21:02:51.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> la armadura es encantable?
+[02May2025 21:04:43.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien, entiendo que me ignores porque quieres que me vaya
+[02May2025 21:04:44.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[02May2025 21:04:44.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[02May2025 21:06:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> e
+[02May2025 21:06:13.439] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6dbbd8fd
+[02May2025 21:06:13.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:35971] logged in with entity id 24078 at (-261.2902362965889, 119.0, -788.3265505119766)
+[02May2025 21:06:13.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[02May2025 21:06:13.547] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[02May2025 21:06:13.550] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[02May2025 21:06:13.550] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[02May2025 21:06:20.850] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 21:06:20.850] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 21:06:20.851] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 21:06:20.851] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 21:06:34.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola miguel fernando alvarado gomez
+[02May2025 21:07:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dije hola miguel fernando alvarado gomez
+[02May2025 21:08:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ubicado en la ciudad de cartagena Dg 31 No. 78-179 AV LA TRONCAL, C.P 13001
+[02May2025 21:08:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> QUEEEEEEEEEEEEEEEEEEEEEEEEEE

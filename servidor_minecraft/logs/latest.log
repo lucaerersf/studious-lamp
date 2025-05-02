@@ -3794,3 +3794,85 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 01:35:44.900] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1987 Y: 22 Z: -1204
 [02May2025 01:35:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was killed by The Leviathan using magic
 [02May2025 01:36:09.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque no se podian hacer en las zonas sin agua}
+[02May2025 01:37:18.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:37:18.666] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[02May2025 01:37:18.683] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[02May2025 01:37:46.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:37:46.962] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:37:46.963] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:37:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ayuda
+[02May2025 01:38:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ve a una zona sin agua pandita
+[02May2025 01:38:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:38:19.375] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[02May2025 01:38:19.391] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[02May2025 01:38:20.916] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID 06b892f4-5c66-41d2-8518-3cc9146d0a12
+[02May2025 01:38:20.917] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1989 Y: 25 Z: -1256
+[02May2025 01:38:20.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was killed by The Leviathan using magic
+[02May2025 01:38:24.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[02May2025 01:38:35.246] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID a17b172b-503b-4e66-ac11-443b13f0c830
+[02May2025 01:38:35.246] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1978 Y: 22 Z: -1246
+[02May2025 01:38:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by The Leviathan
+[02May2025 01:38:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:38:44.720] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:38:44.725] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:39:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:39:18.216] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[02May2025 01:39:18.222] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[02May2025 01:39:20.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! -1.613045256909345,-24.0,-3.2587859996633597
+[02May2025 01:39:21.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> el señor se recupera
+[02May2025 01:39:24.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! -3.670207217226107,-14.0,-3.627477242232544
+[02May2025 01:39:25.228] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID caf1dcb4-efad-49e5-aeca-9896f697d475
+[02May2025 01:39:25.229] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1980 Y: -14 Z: -1215
+[02May2025 01:39:25.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Chain Death]
+[02May2025 01:39:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has left this dimension
+[02May2025 01:39:25.242] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[02May2025 01:39:28.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[02May2025 01:39:29.040] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Syntho with unique ID 2b57f785-ec73-4c84-8af2-d929feada870
+[02May2025 01:39:29.041] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1925 Y: 26 Z: -1228
+[02May2025 01:39:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has reached the goal [Strong or Careful]
+[02May2025 01:39:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was killed by The Leviathan using magic
+[02May2025 01:40:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [A Multidimensional Predator]
+[02May2025 01:40:31.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> WOOOOOOOW
+[02May2025 01:40:48.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[02May2025 01:40:48.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[02May2025 01:40:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> yxd
+[02May2025 01:40:55.423] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f0726db
+[02May2025 01:40:55.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:46087] logged in with entity id 22371 at (1970.1305183715106, 26.0, -1264.5202164311634)
+[02May2025 01:40:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[02May2025 01:40:55.489] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[02May2025 01:40:55.490] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[02May2025 01:40:55.491] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[02May2025 01:40:57.641] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 01:40:57.641] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:40:57.646] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 01:40:57.646] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 01:40:59.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[02May2025 01:41:05.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[02May2025 01:42:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que melanie
+[02May2025 01:42:44.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hace buen daño?
+[02May2025 01:42:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aver
+[02May2025 01:43:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tony a cuanto se lo vendes
+[02May2025 01:43:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> }
+[02May2025 01:43:54.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> rompiste el huevo?
+[02May2025 01:44:05.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> siuuuuuuu
+[02May2025 01:44:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pq mierda lo rompiste
+[02May2025 01:44:19.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pense que lo tiraba
+[02May2025 01:45:27.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:45:27.661] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:45:27.667] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:45:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:45:41.667] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:45:41.668] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:46:05.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:46:05.209] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:46:05.213] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:46:14.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:46:14.208] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:46:14.210] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:46:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02May2025 01:46:23.710] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[02May2025 01:46:23.715] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[02May2025 01:46:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> señor
+[02May2025 01:46:43.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> me debes un leviatan
+[02May2025 01:46:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pq
+[02May2025 01:46:55.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pq el puto huevo generaba uno

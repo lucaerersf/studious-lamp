@@ -2137,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-02 01:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 01:33:20 +0000"
@@ -2446,6 +2452,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-04-18 19:24:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-05-02 01:40:05 +0000"
     },
     "done": true
   },
@@ -3698,6 +3710,7 @@
       "glow_berries": "2025-04-17 17:34:27 +0000",
       "salmon": "2025-04-17 17:55:44 +0000",
       "golden_carrot": "2025-04-18 01:25:02 +0000",
+      "enchanted_golden_apple": "2025-05-02 01:39:30 +0000",
       "cooked_salmon": "2025-04-17 17:57:32 +0000"
     },
     "done": false

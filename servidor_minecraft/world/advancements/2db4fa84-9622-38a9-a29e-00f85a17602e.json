@@ -3463,6 +3463,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_zombie_receptacle": "2025-05-02 03:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"

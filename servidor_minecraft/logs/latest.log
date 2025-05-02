@@ -3629,3 +3629,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 00:35:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> voy hacerlo de vuelta
 [02May2025 00:35:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> si no da
 [02May2025 00:36:01.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> una puerta de madera
+[02May2025 00:46:42.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[02May2025 00:46:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[02May2025 00:56:04.324] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c9df7a9
+[02May2025 00:56:04.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:59325] logged in with entity id 6700 at (-275.6184904588043, 118.0, -752.3000000119209)
+[02May2025 00:56:04.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[02May2025 00:56:04.444] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[02May2025 00:56:04.445] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[02May2025 00:56:04.445] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[02May2025 00:56:06.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 00:56:06.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 00:56:06.686] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[02May2025 00:56:06.687] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

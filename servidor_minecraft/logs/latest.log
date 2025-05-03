@@ -3955,3 +3955,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 21:38:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya regreso
 [03May2025 21:39:51.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [03May2025 21:39:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 22:00:49.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cf17803
+[03May2025 22:00:49.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:33977] logged in with entity id 29542 at (-262.9227131895203, 119.0, -769.2793974292231)
+[03May2025 22:00:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 22:00:49.262] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 22:00:49.263] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 22:00:49.265] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 22:00:52.153] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 22:00:52.153] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 22:00:52.153] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 22:00:52.153] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 22:00:52.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[03May2025 22:00:59.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> limon entendedor'
+[03May2025 22:01:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> estás con vida?
+[03May2025 22:01:30.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que no respondes porque me odias

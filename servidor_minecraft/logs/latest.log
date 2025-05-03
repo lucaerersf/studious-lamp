@@ -3590,3 +3590,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 04:03:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was killed trying to hurt Syntho
 [03May2025 04:03:33.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [03May2025 04:03:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 04:12:02.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[03May2025 04:12:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[03May2025 04:14:09.589] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4fd2e082
+[03May2025 04:14:09.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:55881] logged in with entity id 9566 at (2282.9940676052966, 66.0, 1029.3671698198916)
+[03May2025 04:14:09.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[03May2025 04:14:09.634] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[03May2025 04:14:09.635] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[03May2025 04:14:09.641] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[03May2025 04:14:16.042] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[03May2025 04:14:16.043] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 04:14:16.061] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[03May2025 04:14:16.061] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

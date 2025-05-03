@@ -3714,3 +3714,62 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 21:00:26.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd ni si quiera te voy a aceptar el tp
 [03May2025 21:00:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> polseacaso
 [03May2025 21:00:34.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque
+[03May2025 21:00:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> porque no te vas a aprovechar de mie esfuerzo
+[03May2025 21:00:59.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[03May2025 21:00:59.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 0.17166204289378584,0.18410004615783748,-10.13292806719437
+[03May2025 21:01:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> :(
+[03May2025 21:01:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero tu eres el único que se puede transportar
+[03May2025 21:01:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> por este mundo
+[03May2025 21:01:52.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> o si quieres prestame el escudo y yo busco el camino a casa
+[03May2025 21:02:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Who is Cutting Onions?]
+[03May2025 21:02:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> q dices
+[03May2025 21:02:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> q digo de q
+[03May2025 21:02:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tu tambien puedes
+[03May2025 21:02:50.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> el torbellino es lentisimo
+[03May2025 21:02:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> si quieres cambiamos en lo que buscamos casa
+[03May2025 21:03:06.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> como asi
+[03May2025 21:03:27.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> tu usas la pocion y yo el escudo y cuando encontremos la base ya te devuelvo elescudo y tu la posion
+[03May2025 21:03:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd?
+[03May2025 21:03:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y el escudo para q
+[03May2025 21:03:46.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no dices que funciona para volar?
+[03May2025 21:03:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no xd
+[03May2025 21:03:52.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> es solo un escudo y ya
+[03May2025 21:03:55.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias por mentirme asqueroso hijo de puto
+[03May2025 21:03:57.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[03May2025 21:03:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 21:04:06.932] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48cb3b0
+[03May2025 21:04:06.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:34133] logged in with entity id 14800 at (-516.471181153878, 48.0, -2564.8154693943866)
+[03May2025 21:04:06.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 21:04:07.014] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 21:04:07.014] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 21:04:07.014] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 21:04:10.464] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 21:04:10.465] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 21:04:10.465] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 21:04:10.465] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 21:04:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> por que putas funcionaria para volar un escudo xd
+[03May2025 21:04:15.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> por el dash
+[03May2025 21:04:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pense que usabas el dash en el aire
+[03May2025 21:04:23.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y era como un fuego articial
+[03May2025 21:04:24.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd no
+[03May2025 21:04:30.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[03May2025 21:04:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me habias ilusionado
+[03May2025 21:04:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pense que podria usar mi guante para volar
+[03May2025 21:04:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero ahora veo que solo era otra de tus mentiras..........
+[03May2025 21:04:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tampoco, mister huevetas
+[03May2025 21:05:12.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me avisas c uando encotnremos a way home
+[03May2025 21:05:13.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[03May2025 21:05:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 21:07:23.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24660152
+[03May2025 21:07:23.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:58089] logged in with entity id 15609 at (-535.6999999880791, 47.0, -2578.492277086811)
+[03May2025 21:07:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 21:07:23.556] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 21:07:23.559] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 21:07:23.559] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 21:07:25.423] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 21:07:25.423] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 21:07:25.423] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 21:07:25.423] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 21:07:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola bro me perdonas por decir groserias
+[03May2025 21:07:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> claro puta
+[03May2025 21:10:56.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> raios

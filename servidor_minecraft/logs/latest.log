@@ -3644,3 +3644,125 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 16:52:44.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [03May2025 16:52:44.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
 [03May2025 16:53:28.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=83, z=-1517} BlockPos{x=-1097, y=82, z=-1517}
+[03May2025 17:04:47.011] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f65ec8
+[03May2025 17:04:47.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:57483] logged in with entity id 24476 at (-266.33384424421934, 127.0, -754.6999999880791)
+[03May2025 17:04:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 17:04:47.036] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 17:04:47.037] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 17:04:47.037] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 17:04:50.135] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 17:04:50.141] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 17:04:50.142] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 17:04:50.142] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 17:04:50.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -6.697740790844591,3.7144751245318517,-6.680629914500514
+[03May2025 17:04:50.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[03May2025 17:04:56.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola
+[03May2025 17:04:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> que tranza morrillo
+[03May2025 17:05:03.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya me reviviste
+[03May2025 17:05:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[03May2025 17:05:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> bro no tengo 10 años
+[03May2025 17:05:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque no
+[03May2025 17:06:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien no me peges
+[03May2025 17:06:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 17:06:09.998] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 17:06:10.018] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 17:06:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was slain by Iron Golem
+[03May2025 17:06:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> entonces nunca me vas a revivir porque te parece algo infantil y me odias mucho?
+[03May2025 17:07:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[03May2025 17:07:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sin la ultima parte
+[03May2025 17:07:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[03May2025 17:07:20.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> but is fun
+[03May2025 17:07:54.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que has hecho en todo este tiempo
+[03May2025 17:08:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 17:08:00.163] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 17:08:00.188] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 17:08:04.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> buscar el templo
+[03May2025 17:08:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was slain by Zombie
+[03May2025 17:08:12.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que templo
+[03May2025 17:09:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que ya hayas matado a todos los bosses y no me hayas dejado nada
+[03May2025 17:09:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> todavia
+[03May2025 17:12:18.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[03May2025 17:12:22.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd pense q te habias ido
+[03May2025 17:12:30.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ganas no me faltan
+[03May2025 17:12:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ohhhhhhhh
+[03May2025 17:12:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> jugamos a las escondidas y luego nos vamos a los columpios?
+[03May2025 17:12:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ah verdad q ya soy mayor
+[03May2025 17:12:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ohhhh
+[03May2025 17:12:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> siiiiiiiiiiiiiiii
+[03May2025 17:12:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias por engañarme
+[03May2025 17:13:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> de nada pansona
+[03May2025 17:13:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> jugamos bw
+[03May2025 17:14:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> en bw hay bosses que no hayas matado ya?
+[03May2025 17:14:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nio
+[03May2025 17:14:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hay q ver cocomelon
+[03May2025 17:14:27.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> o prefieres comer papilla para bebe
+[03May2025 17:14:47.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que me odies
+[03May2025 17:15:05.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd maldita mierda
+[03May2025 17:15:11.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> use el ojo y se quemó
+[03May2025 17:15:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que estes buscando bosses para quedarte con todo el loot y no compartir nada
+[03May2025 17:15:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd pero si ni me ayudas
+[03May2025 17:15:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no me jodas rick
+[03May2025 17:16:07.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque no me has revivido
+[03May2025 17:16:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> alias porque no tengo elitras
+[03May2025 17:16:30.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yo estoy sin elitros xd
+[03May2025 17:16:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no conseguiste ayer?
+[03May2025 17:16:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si pero no las estoy usando
+[03May2025 17:17:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien entiendo que hayas looteado todo el end sin mi
+[03May2025 17:17:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero estabas jugando roblox
+[03May2025 17:18:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y ke podia aser
+[03May2025 17:18:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero no me aceptabas tp y me kickeaste del servidor
+[03May2025 17:18:19.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd q dices
+[03May2025 17:18:37.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no me aceptabas tp
+[03May2025 17:18:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y me ignorabas brutalmente
+[03May2025 17:18:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> te eacepte y estabas todo tieso
+[03May2025 17:18:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y ke podia aser
+[03May2025 17:19:22.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero desp ues no aceptabas tps
+[03May2025 17:19:28.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cuando ya no estaba tieso
+[03May2025 17:19:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> siempre estuviste tiesot
+[03May2025 17:19:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> luego t fuiste
+[03May2025 17:19:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me fui porque me kickeo
+[03May2025 17:20:01.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> NO ME REPLIQUES!!!
+[03May2025 17:20:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nadie te kickeo sucio mentiroso
+[03May2025 17:20:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me habia sacado del servidor
+[03May2025 17:20:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> se reinicio y te dije
+[03May2025 17:21:34.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero no respondias si era del servidor o fuiste tu para sacarme para siempre
+[03May2025 17:21:47.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque ya habias usado la consola para asustarme
+[03May2025 17:21:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y por que no revisaste q el server estaba apagado
+[03May2025 17:21:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y hacerme salir
+[03May2025 17:22:03.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tu te saliste solo
+[03May2025 17:22:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y lo usaste como excusa pq estabas jugando
+[03May2025 17:22:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si sabes q yo soy el unico q controla la consola
+[03May2025 17:22:24.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> :v
+[03May2025 17:22:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> como reviso que el serber estaba apagado si no tengo acceso a la consola
+[03May2025 17:22:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y no sabia que eras el unico consolador del barrio
+[03May2025 17:22:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> por la interfaz
+[03May2025 17:22:57.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cual interfaz
+[03May2025 17:23:00.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[03May2025 17:23:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> antes de entrar
+[03May2025 17:23:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dice servidor desconcectado
+[03May2025 17:23:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> como cualquier otro
+[03May2025 17:23:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> salia un X
+[03May2025 17:23:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y cuando intentaba entrar decia algo como java connection reset
+[03May2025 17:23:26.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2099, y=53, z=-3266} BlockPos{x=-2055, y=46, z=-3338}
+[03May2025 17:23:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y que significa reset
+[03May2025 17:24:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> 🙀🥳🥺🥺🥺😳
+[03May2025 17:26:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> como llegsate tan rapido
+[03May2025 17:26:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[03May2025 17:26:40.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> copn creativo
+[03May2025 17:26:48.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1811, y=87, z=-3285} BlockPos{x=-1812, y=88, z=-3286}
+[03May2025 17:26:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien me instalare x ray
+[03May2025 17:28:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> has pensado en vender tu garra?
+[03May2025 17:28:17.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yes
+[03May2025 17:28:31.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero cuando me di cuenta q me sirve como cohetes infinitos ya nio
+[03May2025 17:28:59.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> nisiquiera por 4 pepitas de oro?
+[03May2025 17:29:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nio
+[03May2025 17:31:02.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> negrosech
+[03May2025 17:31:18.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> OMG!!!!!!!!
+[03May2025 17:31:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> q aconteciio
+[03May2025 17:31:41.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aguesome
+[03May2025 17:31:43.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1390, y=96, z=-2437} BlockPos{x=-1389, y=95, z=-2439}
+[03May2025 17:31:43.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1390, y=96, z=-2437} BlockPos{x=-1389, y=95, z=-2439}
+[03May2025 17:31:56.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1402, y=95, z=-2425} BlockPos{x=-1402, y=93, z=-2425}
+[03May2025 17:31:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1404, y=95, z=-2425} BlockPos{x=-1402, y=93, z=-2425}
+[03May2025 17:31:56.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1404, y=95, z=-2424} BlockPos{x=-1404, y=94, z=-2425}
+[03May2025 17:32:00.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1406, y=95, z=-2422} BlockPos{x=-1404, y=95, z=-2423}

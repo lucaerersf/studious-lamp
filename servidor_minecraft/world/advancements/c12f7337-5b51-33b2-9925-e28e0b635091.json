@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-03 23:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-03 00:13:55 +0000"
@@ -878,9 +884,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-01 22:41:40 +0000",
+      "minecraft:pillager": "2025-05-03 23:00:36 +0000",
       "minecraft:skeleton": "2025-05-01 19:16:16 +0000",
       "minecraft:ghast": "2025-05-01 22:44:15 +0000",
       "minecraft:hoglin": "2025-05-03 00:13:24 +0000",
+      "minecraft:vindicator": "2025-05-03 23:05:41 +0000",
       "minecraft:magma_cube": "2025-05-01 22:49:08 +0000",
       "minecraft:spider": "2025-05-01 19:15:44 +0000",
       "minecraft:piglin_brute": "2025-05-03 00:11:54 +0000",
@@ -977,6 +985,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 22:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-03 23:01:05 +0000"
     },
     "done": true
   },

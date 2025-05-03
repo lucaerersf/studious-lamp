@@ -3953,6 +3953,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-03 00:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-04-20 00:42:34 +0000"

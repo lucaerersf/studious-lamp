@@ -8741,3 +8741,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 00:29:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hecho con mi sangre y sudor de bolas
 [03May2025 00:29:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y porque no te independizas
 [03May2025 00:30:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no se señor
+[03May2025 00:31:43.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-398, y=90, z=-531} BlockPos{x=-399, y=91, z=-531}
+[03May2025 00:31:43.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-398, y=91, z=-531} BlockPos{x=-399, y=91, z=-531}
+[03May2025 00:31:43.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-398, y=91, z=-532} BlockPos{x=-399, y=91, z=-531}
+[03May2025 00:31:43.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-399, y=90, z=-532} BlockPos{x=-399, y=91, z=-531}
+[03May2025 00:31:43.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-398, y=90, z=-532} BlockPos{x=-399, y=91, z=-531}
+[03May2025 00:33:13.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:33:13.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:33:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Spooky Scary Skeleton]
+[03May2025 00:33:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> buena cabeza
+[03May2025 00:33:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias
+[03May2025 00:34:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[03May2025 00:34:06.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> dos seguidas
+[03May2025 00:34:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y creo que vi una en la base
+[03May2025 00:34:14.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya podemos invocar wither
+[03May2025 00:34:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yessica
+[03May2025 00:34:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Oh Shiny]
+[03May2025 00:34:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> buen trading
+[03May2025 00:34:55.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> gracias
+[03May2025 00:35:32.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [The long arm of the law]
+[03May2025 00:37:22.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has completed the challenge [Hot Tourist Destinations]
+[03May2025 00:37:28.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved wrongly!
+[03May2025 00:38:13.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:38:13.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:38:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Those Were the Days]
+[03May2025 00:39:47.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Syntho: Has sido baneado permanentemente de este servidor.
+[03May2025 00:39:52.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> AAAAAAAAA
+[03May2025 00:39:53.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[03May2025 00:39:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 00:40:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [War Pigs]
+[03May2025 00:40:19.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-383, y=100, z=-594} BlockPos{x=-387, y=100, z=-595}
+[03May2025 00:40:19.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:19.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:19.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:19.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:19.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:20.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:20.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:20.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=96, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:20.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-381, y=99, z=-594} BlockPos{x=-379, y=95, z=-594}
+[03May2025 00:40:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 00:40:56.014] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[03May2025 00:40:56.026] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[03May2025 00:41:23.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [The long arm of the law]
+[03May2025 00:41:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 00:41:48.065] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[03May2025 00:41:48.072] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[03May2025 00:43:13.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:43:13.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:44:57.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=707, y=88, z=-141} BlockPos{x=707, y=89, z=-141}
+[03May2025 00:47:27.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
+[03May2025 00:48:13.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 00:48:13.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 00:48:24.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
+[03May2025 00:49:49.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind

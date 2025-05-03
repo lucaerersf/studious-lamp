@@ -3595,3 +3595,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 05:04:15.826] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [03May2025 05:04:15.838] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
 [03May2025 05:04:18.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -7.506104000304049,-3.4524218246132534,-16.17575311068481
+[03May2025 05:11:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Local Brewery]

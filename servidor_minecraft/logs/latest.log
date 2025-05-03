@@ -623,3 +623,9 @@
 [03May2025 02:42:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
 [03May2025 02:43:56.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
 [03May2025 02:44:13.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[03May2025 02:45:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 02:45:53.774] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[03May2025 02:45:53.778] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[03May2025 02:46:01.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID c8acba35-89bd-4932-98ce-6999f1013845
+[03May2025 02:46:01.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 91 Y: 1 Z: 21
+[03May2025 02:46:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata fell from a high place

@@ -201,3 +201,6 @@
 [03May2025 00:47:27.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Spectator Mode
 [03May2025 00:48:24.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set arturrssb's game mode to Survival Mode
 [03May2025 00:49:49.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[03May2025 00:53:13.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[03May2025 00:53:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[03May2025 01:01:23.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=198, y=74, z=-179} BlockPos{x=195, y=73, z=-180}

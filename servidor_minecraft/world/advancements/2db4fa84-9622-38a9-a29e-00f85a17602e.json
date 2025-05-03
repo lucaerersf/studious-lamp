@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-05-03 03:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-18 01:39:14 +0000"

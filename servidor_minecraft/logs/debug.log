@@ -6188,3 +6188,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 03:58:13.077] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-274, y=123, z=-750}) doesn't have enough leaves around top most log
 [03May2025 03:58:17.325] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-274, y=123, z=-751}) doesn't have enough leaves around top most log
 [03May2025 03:58:51.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> bro creo que deberian volver a abrir awita
+[03May2025 03:59:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> para robarme todo en venganza y explotar todas mis bases?
+[03May2025 03:59:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nio
+[03May2025 03:59:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> para encontrar un nuevo amigo
+[03May2025 03:59:21.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:59:21.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:00:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien
+[03May2025 04:02:54.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 04:02:54.238] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 04:02:54.257] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 04:02:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [The City at the End of the Game]
+[03May2025 04:03:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was killed trying to hurt Syntho
+[03May2025 04:03:23.492] [Server thread/DEBUG] [tombstone/]: A new grave of the player Syntho was created at position [x:-279, y:119, z:-752, dim:minecraft:overworld]
+[03May2025 04:03:33.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[03May2025 04:03:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 04:04:21.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:04:21.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:09:21.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:09:21.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -3577,3 +3577,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 04:46:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The Parrots and the Bats]
 [03May2025 04:51:43.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 9.591570654838506,2.4159786676345476,-1.9852670654495128
 [03May2025 04:56:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [To be or not to be]
+[03May2025 04:59:45.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
+[03May2025 04:59:45.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[03May2025 04:59:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Sky's the Limit]
+[03May2025 05:01:02.564] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ffa00e
+[03May2025 05:01:02.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:32861] logged in with entity id 15224 at (-368.6726249860202, -31.878017543420324, -721.0566286190493)
+[03May2025 05:01:02.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[03May2025 05:01:02.602] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[03May2025 05:01:02.605] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[03May2025 05:01:02.610] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[03May2025 05:01:05.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[03May2025 05:01:06.311] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[03May2025 05:01:06.311] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 05:01:06.311] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[03May2025 05:01:06.311] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 05:04:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 05:04:15.826] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[03May2025 05:04:15.838] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[03May2025 05:04:18.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -7.506104000304049,-3.4524218246132534,-16.17575311068481

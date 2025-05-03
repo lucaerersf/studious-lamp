@@ -3556,3 +3556,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 15:24:18.475] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [03May2025 15:24:18.476] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [03May2025 15:24:18.476] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 15:44:13.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5da2d631
+[03May2025 15:44:13.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:53529] logged in with entity id 6301 at (2.713458604639502, 93.0, -2.939567656118497)
+[03May2025 15:44:13.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 15:44:13.978] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 15:44:13.979] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 15:44:13.979] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 15:44:19.555] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 15:44:19.557] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 15:44:19.563] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 15:44:19.563] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 15:44:21.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[03May2025 15:44:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[03May2025 15:44:31.613] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d6e5293
+[03May2025 15:44:31.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:39749] logged in with entity id 6547 at (-1263.9674973269505, 55.0, -13531.53335636428)
+[03May2025 15:44:31.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[03May2025 15:44:31.670] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[03May2025 15:44:31.673] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[03May2025 15:44:31.674] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[03May2025 15:44:33.636] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[03May2025 15:44:33.639] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 15:44:33.640] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[03May2025 15:44:33.640] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 15:45:00.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> Una de tus acciones canceló el efecto de Forma Fantasmal
+[03May2025 15:48:31.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yesssssssssssssssir
+[03May2025 15:48:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola?
+[03May2025 15:49:08.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sup
+[03May2025 15:49:22.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> sigues enojado conmigo?
+[03May2025 15:49:27.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yesssssssssssssssir
+[03May2025 15:49:36.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> why
+[03May2025 15:49:55.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> estas en la casa?
+[03May2025 15:50:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> masomenos

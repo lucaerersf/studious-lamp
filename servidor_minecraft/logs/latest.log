@@ -325,3 +325,75 @@
 [03May2025 01:30:31.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1137, y=50, z=91} BlockPos{x=1138, y=49, z=91}
 [03May2025 01:31:37.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1167, y=41, z=103} BlockPos{x=1167, y=40, z=103}
 [03May2025 01:31:41.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1170, y=45, z=103} BlockPos{x=1171, y=44, z=103}
+[03May2025 01:32:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> tp
+[03May2025 01:32:51.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:32:51.301] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 01:32:51.301] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:32:54.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[03May2025 01:33:12.880] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Syntho with unique ID ef75f930-6d33-464e-a893-25a8f8723e5d
+[03May2025 01:33:12.880] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1182 Y: 32 Z: 82
+[03May2025 01:33:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was burnt to a crisp whilst fighting Magma Cube
+[03May2025 01:33:12.891] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:33:16.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[03May2025 01:33:16.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 0.3036513259920639,-9.285270185627127,4.474385657028506
+[03May2025 01:33:24.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> llegaste tarde
+[03May2025 01:33:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> maldito hijo de puta
+[03May2025 01:33:30.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> buen pedo
+[03May2025 01:33:32.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya habia encontrado el portal
+[03May2025 01:34:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> PORQUE
+[03May2025 01:34:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> SI YO ERA EL RESPONSABLE!!!!!!!
+[03May2025 01:34:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:34:56.076] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[03May2025 01:34:56.085] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[03May2025 01:35:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:35:19.286] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 01:35:19.288] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:35:20.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho tried to swim in lava
+[03May2025 01:35:20.783] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:35:26.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[03May2025 01:35:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[03May2025 01:35:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> help
+[03May2025 01:35:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que sucede amigo mio
+[03May2025 01:35:58.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:35:58.628] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 01:35:58.640] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:36:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has reached the goal [Chain Death]
+[03May2025 01:36:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho tried to swim in lava to escape Piglin Brute
+[03May2025 01:36:01.431] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:36:06.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[03May2025 01:36:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que asco no me dio el efecto
+[03May2025 01:36:17.783] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID be94300d-de71-45d1-aa51-d2feb145cb79
+[03May2025 01:36:17.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1248 Y: 62 Z: 136
+[03May2025 01:36:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was slain by Piglin Brute
+[03May2025 01:36:18.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> de que
+[03May2025 01:36:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> quedate ahi poraf
+[03May2025 01:37:03.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y la queso
+[03May2025 01:37:10.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro y si pierdo todo para siempre
+[03May2025 01:37:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> tengo mucho miedo
+[03May2025 01:37:16.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> como asi
+[03May2025 01:37:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:37:19.971] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 01:37:19.980] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:37:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd esq me mori
+[03May2025 01:37:21.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho tried to swim in lava to escape Piglin Brute
+[03May2025 01:37:21.926] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:37:25.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[03May2025 01:37:25.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved too quickly! -0.023496704150147707,-10.024424088213692,-1.5410060051083292
+[03May2025 01:37:33.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero nada se quema
+[03May2025 01:37:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y mis cosas estan en una mini isla en mitad de la nada
+[03May2025 01:38:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Eye Spy]
+[03May2025 01:38:27.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> :(
+[03May2025 01:38:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> buen ojo
+[03May2025 01:39:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bro puedes poner home en esa stronghold y venir a ayudarme
+[03May2025 01:39:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no gracias
+[03May2025 01:40:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> es broma ya voy
+[03May2025 01:40:07.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[03May2025 01:40:07.373] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[03May2025 01:40:07.374] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[03May2025 01:40:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd ya le iba a dar a desconectar
+[03May2025 01:40:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> manda tp
+[03May2025 01:41:17.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Eye Spy]
+[03May2025 01:41:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola guapo
+[03May2025 01:41:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola matias
+[03May2025 01:42:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Hidden in the Depths]
+[03May2025 01:42:36.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> :(

@@ -4031,3 +4031,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [02May2025 22:16:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02May2025 22:16:27.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
 [02May2025 23:19:28.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-263, y=115, z=-819} BlockPos{x=-258, y=115, z=-818}
+[02May2025 23:50:59.724] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69b8c01d
+[02May2025 23:50:59.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:36377] logged in with entity id 49756 at (-267.79206660642967, 119.0, -788.8244341260782)
+[02May2025 23:50:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[02May2025 23:50:59.794] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[02May2025 23:50:59.795] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[02May2025 23:50:59.797] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[02May2025 23:51:11.522] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 23:51:11.523] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 23:51:11.523] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[02May2025 23:51:11.523] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[02May2025 23:51:13.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola amigos como estan
+[02May2025 23:51:21.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> MATAMOS AL DRAGON??
+[02May2025 23:51:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> ODA
+[02May2025 23:52:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> Hola estimados compañeros de vida. Sería de mi agrado saber como se encuentran el día de hoy ¿Cómo les ha ido hoy?
+[02May2025 23:52:26.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> TOUDO BEN
+[02May2025 23:52:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> AN YU
+[02May2025 23:52:34.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> @everyone
+[02May2025 23:52:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> bien gracias
+[02May2025 23:52:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[02May2025 23:52:59.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> entra dc
+[02May2025 23:53:04.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cual dc
+[02May2025 23:55:13.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> entra dc
+[02May2025 23:55:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> CUAL DC
+[02May2025 23:55:44.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> entra dc
+[02May2025 23:55:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cual dc
+[02May2025 23:55:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> el que tengo aqui colgando
+[02May2025 23:56:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> discodr
+[02May2025 23:56:05.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd yo se
+[02May2025 23:56:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero cual discord
+[02May2025 23:56:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> el que tiene un coso blanco con fondo morado
+[02May2025 23:56:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> yo tengo uno de fondo azul
+[02May2025 23:56:58.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Into Fire]
+[02May2025 23:58:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has reached the goal [Bone Crusher]

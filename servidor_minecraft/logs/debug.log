@@ -6137,3 +6137,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 04:44:04.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 04:44:04.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03May2025 04:46:10.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [The Parrots and the Bats]
+[03May2025 04:49:04.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:49:04.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:51:43.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 9.591570654838506,2.4159786676345476,-1.9852670654495128
+[03May2025 04:54:04.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:54:04.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:56:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [To be or not to be]

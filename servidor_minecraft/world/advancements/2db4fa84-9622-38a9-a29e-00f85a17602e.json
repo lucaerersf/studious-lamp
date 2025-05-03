@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-03 04:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-04-20 00:43:01 +0000"
@@ -3995,6 +4001,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 18:53:44 +0000",
       "cooked_beef": "2025-04-17 18:53:50 +0000",
+      "chorus_fruit": "2025-05-03 04:51:30 +0000",
       "cooked_cod": "2025-04-17 17:52:39 +0000",
       "bread": "2025-04-17 17:41:21 +0000",
       "golden_apple": "2025-04-19 23:21:20 +0000",

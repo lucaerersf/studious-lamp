@@ -1876,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 04:44:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-24 05:17:48 +0000"
@@ -2191,6 +2197,12 @@
       "has_gravel": "2025-04-17 17:50:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-03 04:46:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
@@ -3224,6 +3236,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-03 04:46:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-17 21:44:08 +0000"
@@ -3347,6 +3365,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 19:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 04:44:28 +0000"
     },
     "done": true
   },

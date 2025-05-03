@@ -3619,3 +3619,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [03May2025 15:53:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was slain by Iron Golem
 [03May2025 15:54:56.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [03May2025 15:54:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 16:49:44.905] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@509863f3
+[03May2025 16:49:44.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:44735] logged in with entity id 19850 at (-278.30000001192093, 125.0, -759.0124999880791)
+[03May2025 16:49:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[03May2025 16:49:44.942] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[03May2025 16:49:44.942] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[03May2025 16:49:44.942] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[03May2025 16:49:47.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[03May2025 16:49:47.459] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 16:49:47.465] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 16:49:47.466] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[03May2025 16:49:47.469] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[03May2025 16:50:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> sopa
+[03May2025 16:50:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aña
+[03May2025 16:50:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya me reviviste?
+[03May2025 16:50:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[03May2025 16:50:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> really?
+[03May2025 16:50:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[03May2025 16:52:08.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-756, y=62, z=-1150} BlockPos{x=-756, y=62, z=-1151}
+[03May2025 16:52:08.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-756, y=62, z=-1150} BlockPos{x=-756, y=62, z=-1151}
+[03May2025 16:52:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> where
+[03May2025 16:52:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> idk
+[03May2025 16:52:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias por engañarme
+[03May2025 16:52:44.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[03May2025 16:52:44.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[03May2025 16:53:28.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=83, z=-1517} BlockPos{x=-1097, y=82, z=-1517}

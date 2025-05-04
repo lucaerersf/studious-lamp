@@ -3595,3 +3595,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 17:43:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NOLIAB> yes
 [04May2025 17:46:30.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata lost connection: Disconnected
 [04May2025 17:46:30.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata left the game
+[04May2025 17:51:11.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:51:14.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:51:16.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:51:17.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:21.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NOLIAB lost connection: Disconnected
+[04May2025 17:53:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NOLIAB left the game
+[04May2025 17:53:31.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:36.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:38.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:38.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:39.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:40.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:47.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:48.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:50.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:54.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:53:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:02.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:04.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:06.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:09.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:11.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:12.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:15.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:17.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:54:19.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 17:57:04.644] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2995583f
+[04May2025 17:57:04.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:36171] logged in with entity id 5609 at (-286.01249998807907, 119.0, -774.6823943014276)
+[04May2025 17:57:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[04May2025 17:57:04.673] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[04May2025 17:57:04.673] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[04May2025 17:57:04.674] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[04May2025 17:57:06.837] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 17:57:06.841] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 17:57:06.841] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 17:57:06.841] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 17:57:06.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[04May2025 17:57:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola
+[04May2025 17:57:29.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola?

@@ -6117,3 +6117,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 03:35:32.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 03:40:32.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 03:40:32.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 03:45:32.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 03:45:32.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 03:45:38.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:38.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[04May2025 03:45:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04May2025 03:45:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[04May2025 03:45:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04May2025 03:45:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sd<--[HERE]
+[04May2025 03:45:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04May2025 03:50:32.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 03:50:32.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

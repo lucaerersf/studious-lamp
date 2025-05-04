@@ -3570,3 +3570,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 03:31:04.374] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [04May2025 03:31:04.374] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [04May2025 03:31:04.374] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 03:45:38.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:38.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[04May2025 03:45:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04May2025 03:45:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[04May2025 03:45:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04May2025 03:45:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sd<--[HERE]
+[04May2025 03:45:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04May2025 03:45:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]

@@ -3604,3 +3604,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 04:30:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has completed the challenge [It Spreads]
 [04May2025 04:31:19.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [04May2025 04:31:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[04May2025 04:35:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [A Strange Grave Dust]
+[04May2025 04:35:50.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d9de411
+[04May2025 04:35:50.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:60145] logged in with entity id 10367 at (-851.6950080511251, 151.96276865891514, -1075.1833700113373)
+[04May2025 04:35:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[04May2025 04:35:50.883] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[04May2025 04:35:50.886] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[04May2025 04:35:50.887] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[04May2025 04:35:56.448] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[04May2025 04:35:56.448] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 04:35:56.448] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[04May2025 04:35:56.448] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 04:36:11.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Stone Age]
+[04May2025 04:40:24.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 04:41:04.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [We Need to Go Deeper]
+[04May2025 04:41:05.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [A Terrible Fortress]
+[04May2025 04:42:04.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 04:44:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 04:44:08.548] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 04:44:08.550] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:44:14.655] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for King_Dem0nd with unique ID 0b853005-a99b-4528-a193-b29228ddeeab
+[04May2025 04:44:14.658] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -647 Y: 31 Z: -2733
+[04May2025 04:44:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd tried to swim in lava
+[04May2025 04:44:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Your First Grave]
+[04May2025 04:44:14.691] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:44:31.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 04:45:28.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has reached the goal [Here They Come]
+[04May2025 04:45:40.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 04:45:40.150] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 04:45:40.160] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:45:41.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd tried to swim in lava
+[04May2025 04:45:41.670] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:46:20.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 04:46:20.249] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 04:46:20.250] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:46:22.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has reached the goal [Chain Death]
+[04May2025 04:46:22.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd tried to swim in lava
+[04May2025 04:46:22.101] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:49:19.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: King_Dem0nd lost connection: Disconnected
+[04May2025 04:49:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd left the game

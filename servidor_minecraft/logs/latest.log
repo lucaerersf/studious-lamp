@@ -3585,3 +3585,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 03:58:50.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [04May2025 03:58:52.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [04May2025 04:23:20.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 04:25:40.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 04:27:13.451] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@150f45b9
+[04May2025 04:27:13.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: King_Dem0nd[/127.32.93.61:48025] logged in with entity id 9011 at (-305.30000001192093, 119.0, -754.7033959996137)
+[04May2025 04:27:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd joined the game
+[04May2025 04:27:13.503] [Server thread/INFO] [Jade/]: Syncing config to King_Dem0nd (187d6856-e50f-38ed-9449-ea1f6a669edb)
+[04May2025 04:27:13.505] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to King_Dem0nd
+[04May2025 04:27:13.509] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to King_Dem0nd
+[04May2025 04:27:17.173] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[04May2025 04:27:17.175] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 04:27:17.176] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from King_Dem0nd : SUCCESS
+[04May2025 04:27:17.178] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 04:27:17.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[04May2025 04:28:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 04:28:19.964] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 04:28:19.976] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 04:30:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Monster Hunter]
+[04May2025 04:30:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has completed the challenge [It Spreads]
+[04May2025 04:31:19.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[04May2025 04:31:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

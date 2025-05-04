@@ -1456,3 +1456,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23151!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
+[04May2025 02:47:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 02:47:01.066] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 02:47:01.082] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:47:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 02:47:44.916] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 02:47:44.929] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:47:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 02:47:58.764] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 02:47:58.785] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:48:24.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Cover Me with Diamonds]
+[04May2025 02:48:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Amateur Archaeologist]
+[04May2025 02:54:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Mutual Aid]
+[04May2025 02:57:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has reached the goal [Postmortal]
+[04May2025 02:57:49.339] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:58:38.438] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:58:43.841] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:58:49.281] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 02:59:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 02:59:07.680] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 02:59:07.680] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
+[04May2025 03:00:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Into Fire]
+[04May2025 03:00:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Acquire Hardware]
+[04May2025 03:01:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Knowledge of Death]
+[04May2025 03:01:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Your First Receptacle]
+[04May2025 03:01:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Ice Bucket Challenge]
+[04May2025 03:01:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Not even afraid of death]
+[04May2025 03:01:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Back to childhood]

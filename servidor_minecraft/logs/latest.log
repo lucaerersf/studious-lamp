@@ -4205,3 +4205,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 20:00:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cuantas esmeraldas pides por un stack de cohetes
 [04May2025 20:00:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no me sirven las esmeraldas
 [04May2025 20:00:50.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> señor...
+[04May2025 20:01:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esque no tengo nada mas que te pueda servir
+[04May2025 20:01:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 20:03:14.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que te serviria a cambio de cohetes
+[04May2025 20:03:32.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Hidden in the Depths]
+[04May2025 20:03:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[04May2025 20:03:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> buen xray
+[04May2025 20:03:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gime money
+[04May2025 20:04:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> can i have money please
+[04May2025 20:04:21.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 20:04:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cohetes
+[04May2025 20:04:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> espera tetona
+[04May2025 20:04:31.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que paso xd
+[04May2025 20:04:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> un wither se puede generar naturalmente?
+[04May2025 20:05:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si pq
+[04May2025 20:05:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> nda
+[04May2025 20:05:31.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 20:05:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> gracias
+[04May2025 20:06:53.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me voy a casar con su hija, tiene algun problema con eso?
+[04May2025 20:07:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> de que hablas
+[04May2025 20:07:17.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> era una broma
+[04May2025 20:07:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> me mie
+[04May2025 20:07:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> del miedo?
+[04May2025 20:07:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tambien
+[04May2025 20:10:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola humilde princesa
+[04May2025 20:10:22.744] [Worker-Main-26/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[04May2025 20:10:22.801] [Worker-Main-26/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[04May2025 20:10:22.801] [Worker-Main-26/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}

@@ -725,6 +725,7 @@
       "minecraft:creeper": "2025-04-19 23:27:08 +0000",
       "minecraft:zombified_piglin": "2025-05-03 00:18:08 +0000",
       "minecraft:wither_skeleton": "2025-05-02 18:16:42 +0000",
+      "minecraft:cave_spider": "2025-05-04 02:40:48 +0000",
       "minecraft:piglin": "2025-05-02 18:28:31 +0000",
       "minecraft:stray": "2025-04-17 17:58:19 +0000",
       "minecraft:enderman": "2025-04-24 04:59:57 +0000",
@@ -1440,11 +1441,13 @@
       "minecraft:grove": "2025-04-17 17:28:56 +0000",
       "minecraft:jagged_peaks": "2025-04-17 22:41:46 +0000",
       "minecraft:forest": "2025-04-17 17:29:46 +0000",
+      "minecraft:lush_caves": "2025-05-04 02:35:51 +0000",
       "minecraft:frozen_ocean": "2025-04-19 02:41:38 +0000",
       "minecraft:desert": "2025-05-02 19:16:01 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-19 02:46:01 +0000",
       "minecraft:ocean": "2025-04-20 02:44:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 17:22:34 +0000",
+      "minecraft:frozen_peaks": "2025-05-04 02:39:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 02:48:12 +0000",
       "minecraft:deep_dark": "2025-04-19 23:17:12 +0000",
       "minecraft:meadow": "2025-05-02 01:56:14 +0000",
@@ -3263,6 +3266,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-02 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-04 02:35:36 +0000"
     },
     "done": true
   },

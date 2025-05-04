@@ -4267,3 +4267,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 20:18:51.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [04May2025 20:20:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
 [04May2025 20:20:56.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved wrongly!
+[04May2025 20:22:18.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04May2025 20:22:26.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -9.6947715865399,-2.6763325499949957,-14.596342072644802
+[04May2025 20:22:37.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
+[04May2025 20:22:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> ya vengo
+[04May2025 20:22:49.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[04May2025 20:22:49.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[04May2025 20:24:17.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved wrongly!
+[04May2025 20:24:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> go disdc
+[04May2025 20:24:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> aftdfassfsasafas
+[04May2025 20:24:38.137] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16fd8938
+[04May2025 20:24:38.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:59381] logged in with entity id 61428 at (-3440.48537903889, 63.23624502770684, -5127.155211389669)
+[04May2025 20:24:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[04May2025 20:24:38.158] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[04May2025 20:24:38.161] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[04May2025 20:24:38.166] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[04May2025 20:24:39.220] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 20:24:39.220] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 20:24:39.221] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 20:24:39.221] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 20:27:19.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> encontre un chicken porky
+[04May2025 20:27:29.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> se le pueden equipar cosas?
+[04May2025 20:27:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya se murio
+[04May2025 20:28:00.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien e ntiendo que quieras un knucle sandwich
+[04May2025 20:28:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
+[04May2025 20:28:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no?
+[04May2025 20:28:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lo asesine pq era de colombia pero no hablaba como colombiano
+[04May2025 20:28:24.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -13.161506668881884,0.31834488891607293,-13.000199129221983
+[04May2025 20:28:25.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> buena feminidad
+[04May2025 20:28:44.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -12.705459436728233,-2.0982701623898237,-13.643050660900371
+[04May2025 20:29:25.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 7.267745372024365,6.894091145192448,3.8421207299397793
+[04May2025 20:29:26.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -15.181150766929022,-1.9757465745312857,-10.507567133427074
+[04May2025 20:29:26.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -0.7493479202394155,-10.103405424689711,0.0
+[04May2025 20:29:26.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[04May2025 20:29:32.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved wrongly!
+[04May2025 20:29:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola vendo granja de endermans
+[04May2025 20:30:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tu nariz contra mis bolas
+[04May2025 20:31:17.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[04May2025 20:31:19.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -13.291590432825615,-1.6270791533574993,-12.25965524975254
+[04May2025 20:31:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ☻
+[04May2025 20:32:29.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[04May2025 20:32:34.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -12.550120644752496,-0.9263761242178816,-13.265651289733796
+[04May2025 20:32:44.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved wrongly!
+[04May2025 20:32:50.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5606ms or 112 ticks behind
+[04May2025 20:33:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pov: sabes el contexto
+[04May2025 20:33:07.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind

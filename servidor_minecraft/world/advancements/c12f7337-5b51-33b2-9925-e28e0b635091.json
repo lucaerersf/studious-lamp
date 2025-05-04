@@ -550,7 +550,8 @@
       "minecraft:enderman": "2025-05-01 22:42:28 +0000",
       "minecraft:vex": "2025-05-03 23:20:44 +0000",
       "minecraft:zombie": "2025-04-26 17:13:47 +0000",
-      "minecraft:drowned": "2025-05-01 18:33:41 +0000"
+      "minecraft:drowned": "2025-05-01 18:33:41 +0000",
+      "minecraft:zombie_villager": "2025-05-04 19:57:22 +0000"
     },
     "done": false
   },

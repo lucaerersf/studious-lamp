@@ -3652,3 +3652,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 18:04:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> voy
 [04May2025 18:04:28.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [04May2025 18:04:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[04May2025 18:08:01.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@771fe4e4
+[04May2025 18:08:01.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:56175] logged in with entity id 7569 at (-276.542784241616, 119.0, -796.8379338859112)
+[04May2025 18:08:01.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[04May2025 18:08:01.368] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[04May2025 18:08:01.370] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[04May2025 18:08:01.371] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[04May2025 18:08:04.638] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 18:08:04.638] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 18:08:04.639] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 18:08:04.639] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 18:08:04.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[04May2025 18:08:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no lo vi
+[04May2025 18:08:19.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> entonces no quieres que construya ninguna granja?
+[04May2025 18:08:47.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola'??'
+[04May2025 18:09:17.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[04May2025 18:10:21.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[04May2025 18:10:43.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[04May2025 18:10:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> consegui un goblin
+[04May2025 18:11:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero no esta tan cheto
+[04May2025 18:11:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> solo hacha efi 6
+[04May2025 18:11:13.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[04May2025 18:11:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 18:11:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> en pico estaria bien
+[04May2025 18:11:26.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> DE QUE TE RIES
+[04May2025 18:11:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd como asi
+[04May2025 18:11:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> por que me odias con toda tu alma?
+[04May2025 18:11:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> se pueden transferir encantamientos?
+[04May2025 18:11:45.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> EFICIENCIA EN PICO, RETRASADO MENTAL!!!
+[04May2025 18:11:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero es para el hacha
+[04May2025 18:11:54.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> como asi
+[04May2025 18:11:54.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no para el pico
+[04May2025 18:11:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd por eso
+[04May2025 18:13:29.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola señor me vendes cohetes?
+[04May2025 18:13:38.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sure
+[04May2025 18:14:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> no quieres que construya alguna granja?
+[04May2025 18:14:08.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pues si quieres
+[04May2025 18:14:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd pues quiero construir varias granjas
+[04May2025 18:14:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero no hay alguna q te sirva rn 20/25?
+[04May2025 18:14:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pues las mas utiles con las de polvora, papel y tetoms
+[04May2025 18:14:55.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> son*
+[04May2025 18:15:10.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[04May2025 18:15:37.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pero te ofreci la de totems y me dijiste que era una mierdota y que no la querrias ver nunca en este mundo y la destruirias al isntante apenas la veiras
+[04May2025 18:15:50.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> buenas veiras
+[04May2025 18:15:50.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[04May2025 18:15:52.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> pero no dije eso
+[04May2025 18:16:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> entonces que dijiste
+[04May2025 18:16:17.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[04May2025 18:16:25.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> mira que entre al end y habian 4 negros mirandome fijamente
+[04May2025 18:16:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 18:16:54.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> VEO UNA GRANJA DE ENDERMANS SIN TERMINAR!!!!!!!!!!!
+[04May2025 18:17:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 18:17:07.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tu eres una niña mala?
+[04May2025 18:17:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> la destruyo y construyo una nueva?
+[04May2025 18:17:16.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[04May2025 18:17:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> creo q esta muy cerca xd
+[04May2025 18:17:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quien es el dueño?
+[04May2025 18:17:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd esta cerquisima
+[04May2025 18:17:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tu puta madre
+[04May2025 18:17:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> si la vi apenas entrar al end
+[04May2025 18:17:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> alias tony
+[04May2025 18:17:31.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 18:17:39.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y no se enoja si la destruyo y me robo los materiales para la mia?
+[04May2025 18:17:40.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> bale chaMOOO!!!!!!!!!
+[04May2025 18:17:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> si se va a enojar
+[04May2025 18:17:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> solo necesito las tolvas

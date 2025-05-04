@@ -3575,3 +3575,79 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 23:29:47.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [04May2025 23:30:09.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6775ms or 135 ticks behind
 [04May2025 23:31:06.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-918, y=32, z=-4385} BlockPos{x=-918, y=31, z=-4383}
+[04May2025 23:36:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> chichon tienes caña d azucar?
+[04May2025 23:36:36.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
+[04May2025 23:38:01.529] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a805ccf
+[04May2025 23:38:01.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:42773] logged in with entity id 4807 at (-276.30000001192093, 125.0, -759.0124999880791)
+[04May2025 23:38:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[04May2025 23:38:01.657] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[04May2025 23:38:01.660] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[04May2025 23:38:01.663] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[04May2025 23:38:10.462] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 23:38:10.463] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 23:38:10.464] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 23:38:10.464] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 23:38:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ya le cayó popó al server
+[04May2025 23:38:41.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pq estás furioso conmigo
+[04May2025 23:39:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> quien me despertó
+[04May2025 23:40:37.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> hola
+[04May2025 23:41:23.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
+[04May2025 23:41:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
+[04May2025 23:42:09.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aaaaaa
+[04May2025 23:42:23.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> chu
+[04May2025 23:44:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yesssssssssir
+[04May2025 23:44:42.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ssssssssso
+[04May2025 23:44:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no
+[04May2025 23:45:54.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> aaaaaaa
+[04May2025 23:46:00.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> wesome
+[04May2025 23:46:00.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> que pasó
+[04May2025 23:46:04.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[04May2025 23:46:07.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 23:47:09.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> encontre un chicken jockey
+[04May2025 23:47:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> sin el jockey
+[04May2025 23:47:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> avel
+[04May2025 23:47:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[04May2025 23:47:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y sin el chicken
+[04May2025 23:48:30.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> awesome
+[04May2025 23:48:33.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[04May2025 23:48:33.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! -8.610152909294584,-0.373904036466719,5.228358547120479
+[04May2025 23:48:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> encontraste a chicken cebolla?
+[04May2025 23:48:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> lles
+[04May2025 23:51:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> yes
+[04May2025 23:51:24.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> para q o q
+[04May2025 23:51:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> para usarlo
+[04May2025 23:51:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y una cabeza de criper?
+[04May2025 23:51:47.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nio
+[04May2025 23:52:02.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y 42 ojos de ender?
+[04May2025 23:52:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[04May2025 23:52:22.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> y un encantamiento que hace que puedas pegar desde mas lejos?
+[04May2025 23:52:28.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> pergamino
+[04May2025 23:52:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> tampoco, madrecita
+[04May2025 23:52:50.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> por que objeto intercambarias tu martillo?
+[04May2025 23:52:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no lo estoy cambiando señor
+[04May2025 23:53:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> esta bien
+[04May2025 23:53:17.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[04May2025 23:53:17.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved too quickly! 12.603814514694932,2.7215791761413612,12.503246710506573
+[04May2025 23:54:52.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=120, z=-4712} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-759, y=118, z=-4712} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4712} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:52.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-760, y=119, z=-4711} BlockPos{x=-758, y=120, z=-4712}
+[04May2025 23:54:53.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=120, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=122, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=122, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:54:53.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
+[04May2025 23:56:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hay una piedra en mi zapallo

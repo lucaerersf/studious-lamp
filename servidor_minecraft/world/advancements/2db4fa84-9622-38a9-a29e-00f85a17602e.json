@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-04 18:33:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-03 00:04:41 +0000"
@@ -2541,6 +2547,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-05-04 18:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-03 00:04:41 +0000"
@@ -3156,6 +3168,7 @@
       "minecraft:witch": "2025-04-20 17:04:56 +0000",
       "minecraft:wither_skeleton": "2025-04-18 22:42:25 +0000",
       "minecraft:husk": "2025-04-21 04:13:02 +0000",
+      "minecraft:ender_dragon": "2025-05-04 18:33:52 +0000",
       "minecraft:shulker": "2025-05-03 02:45:10 +0000",
       "minecraft:piglin": "2025-04-17 18:05:23 +0000",
       "minecraft:enderman": "2025-04-17 17:34:20 +0000",

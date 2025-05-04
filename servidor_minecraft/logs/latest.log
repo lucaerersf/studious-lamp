@@ -44,3 +44,13 @@
 [04May2025 02:05:54.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamakalata moved wrongly!
 [04May2025 02:08:12.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> W
 [04May2025 02:09:07.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Best Friends Forever]
+[04May2025 02:23:24.680] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5929807d
+[04May2025 02:23:24.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:51459] logged in with entity id 81134 at (970.4341089115569, 54.0, -3733.074999988079)
+[04May2025 02:23:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[04May2025 02:23:24.704] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[04May2025 02:23:24.704] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[04May2025 02:23:24.704] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[04May2025 02:23:27.087] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[04May2025 02:23:27.088] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 02:23:27.089] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[04May2025 02:23:27.089] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

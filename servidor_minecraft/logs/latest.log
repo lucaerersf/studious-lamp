@@ -11,3 +11,8 @@
 [04May2025 01:06:10.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [04May2025 01:06:10.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [04May2025 01:07:47.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[04May2025 01:22:53.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 01:22:54.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 01:24:42.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 01:28:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [The Soul Forge]
+[04May2025 01:31:52.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!

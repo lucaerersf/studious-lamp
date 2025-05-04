@@ -18,3 +18,23 @@
 [04May2025 01:31:52.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [04May2025 01:35:54.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [04May2025 01:38:46.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [The broken Nether's warmachine]
+[04May2025 01:46:28.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=67, z=-3701} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=67, z=-3701} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:28.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=67, z=-3700} BlockPos{x=992, y=66, z=-3701}
+[04May2025 01:46:54.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=996, y=60, z=-3716} BlockPos{x=996, y=61, z=-3716}
+[04May2025 01:52:56.984] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f3fefcf
+[04May2025 01:52:56.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:57965] logged in with entity id 75762 at (-282.627894640203, 121.0, -784.585237660709)
+[04May2025 01:52:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[04May2025 01:52:57.009] [Server thread/INFO] [Jade/]: Syncing config to tumamakalata (24194d7c-a64a-3904-97f4-d34c10a46cf1)
+[04May2025 01:52:57.010] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[04May2025 01:52:57.011] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[04May2025 01:52:59.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[04May2025 01:53:00.704] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

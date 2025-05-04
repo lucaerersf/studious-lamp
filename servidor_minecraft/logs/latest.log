@@ -3643,3 +3643,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 04:46:22.101] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved
 [04May2025 04:49:19.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: King_Dem0nd lost connection: Disconnected
 [04May2025 04:49:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd left the game
+[04May2025 05:00:52.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 05:00:52.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 05:01:24.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[04May2025 05:03:15.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!

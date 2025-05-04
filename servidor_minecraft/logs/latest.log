@@ -3584,3 +3584,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 16:55:08.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
 [04May2025 16:55:08.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
 [04May2025 16:59:26.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[04May2025 17:01:39.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[04May2025 17:06:07.927] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fc6f04
+[04May2025 17:06:08.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Syntho[/127.213.240.40:60795] logged in with entity id 4425 at (-261.1565639395036, 119.0, -766.8444123519001)
+[04May2025 17:06:08.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho joined the game
+[04May2025 17:06:08.225] [Server thread/INFO] [Jade/]: Syncing config to Syntho (c12f7337-5b51-33b2-9925-e28e0b635091)
+[04May2025 17:06:08.227] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Syntho
+[04May2025 17:06:08.232] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Syntho
+[04May2025 17:06:17.962] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 17:06:17.966] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 17:06:18.007] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Syntho : SUCCESS
+[04May2025 17:06:18.009] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 17:08:03.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho lost connection: Disconnected
+[04May2025 17:08:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho left the game
+[04May2025 17:09:24.995] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,artifacts:main,curios:main,tombstone:tombstone_channel,carryon:carryonpackets,playerrevive:main,geckolib3:main,retraining:main,cosmeticarmorreworked:main,citadel:main_channel,creativecore:main,cataclysm:main_channel] rejected their client side version number
+[04May2025 17:09:25.027] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04May2025 17:09:25.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1297507c[id=<null>,name=ABICHOTA,properties={},legacy=false] (/127.27.202.134:52591) lost connection: Connection closed - mismatched mod channel list

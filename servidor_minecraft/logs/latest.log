@@ -38,3 +38,6 @@
 [04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
 [04May2025 01:53:00.705] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[04May2025 01:57:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> d
+[04May2025 02:04:04.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[04May2025 02:04:04.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

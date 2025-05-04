@@ -4519,3 +4519,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 21:24:07.953] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 58 Y: 68 Z: -1084
 [04May2025 21:24:07.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was blown up by Wither
 [04May2025 21:25:02.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has reached the goal [Strong Undead]
+[04May2025 21:28:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [Knowledge raises the soul]
+[04May2025 21:32:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 21:32:28.846] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[04May2025 21:32:28.856] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[04May2025 21:32:37.404] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Syntho with unique ID 7cd12b10-e31a-46db-8875-e994512c876e
+[04May2025 21:32:37.404] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -10214 Y: -27 Z: -10257
+[04May2025 21:32:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was exterminated by The Harbinger 's laser
+[04May2025 21:32:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> oe verad pichon
+[04May2025 21:32:56.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> parace q sebas se ba
+[04May2025 21:33:02.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[04May2025 21:33:20.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has completed the challenge [The Thing of Ancient Civilization]
+[04May2025 21:34:50.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> quien es sebas
+[04May2025 21:35:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> una beba de chamba
+[04May2025 21:35:27.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> quieren una mochila de creeper?

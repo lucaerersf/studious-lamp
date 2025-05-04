@@ -1483,3 +1483,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [04May2025 03:01:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Ice Bucket Challenge]
 [04May2025 03:01:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Not even afraid of death]
 [04May2025 03:01:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: King_Dem0nd has made the advancement [Back to childhood]
+[04May2025 03:16:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04May2025 03:16:19.621] [Server thread/WARN] [tombstone/]: The death event of the player King_Dem0nd was canceled by another mod
+[04May2025 03:16:19.635] [Server thread/INFO] [tombstone/]: The player King_Dem0nd has successfully been saved

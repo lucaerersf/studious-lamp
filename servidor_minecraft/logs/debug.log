@@ -6371,3 +6371,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [04May2025 23:54:53.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
 [04May2025 23:54:53.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-762, y=121, z=-4712} BlockPos{x=-760, y=122, z=-4712}
 [04May2025 23:56:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hay una piedra en mi zapallo
+[04May2025 23:58:21.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 23:58:21.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 23:58:23.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:fla'
+[04May2025 23:58:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...arturrssb minecraft:fla<--[HERE]
+[04May2025 23:58:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:fla'
+[04May2025 23:58:26.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...arturrssb minecraft:fla<--[HERE]
+[04May2025 23:58:36.901] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[04May2025 23:58:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Eye of Flame] to arturrssb
+[04May2025 23:58:50.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-763, y=114, z=-4713} BlockPos{x=-763, y=112, z=-4714}
+[04May2025 23:59:29.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> dice tony que se esta transformando en super sayayin
+[04May2025 23:59:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[04May2025 23:59:54.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> buena transformacion
+[04May2025 23:59:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no es broma
+[05May2025 00:00:05.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[05May2025 00:00:16.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> lo sé
+[05May2025 00:00:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> y por que te burlas
+[05May2025 00:00:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> porque estas enojado conmigo
+[05May2025 00:00:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd no estoy enojado
+[05May2025 00:01:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd entonces que significa el señor que me estabas mandando
+[05May2025 00:01:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd no se
+[05May2025 00:01:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[05May2025 00:02:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> era una rifa
+[05May2025 00:02:17.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> enesrio?
+[05May2025 00:02:38.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[05May2025 00:02:38.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Syntho moved too quickly! -11.196604018844234,-2.8853711968583937,13.936796968579188
+[05May2025 00:03:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has made the advancement [The Soul Forge]
+[05May2025 00:03:23.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:03:23.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:04:12.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05May2025 00:04:12.492] [Server thread/WARN] [tombstone/]: The death event of the player Syntho was canceled by another mod
+[05May2025 00:04:12.493] [Server thread/INFO] [tombstone/]: The player Syntho has successfully been saved
+[05May2025 00:04:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[05May2025 00:04:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> ves por egoista
+[05May2025 00:04:37.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Syntho with unique ID 659ec111-08d6-4b14-ba7a-1da7eadfa796
+[05May2025 00:04:37.492] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 23 Y: 33 Z: 964
+[05May2025 00:04:37.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho was doomed to fall by Netherite Monstrosity
+[05May2025 00:04:37.559] [Server thread/DEBUG] [tombstone/]: A new grave of the player Syntho was created at position [x:22, y:33, z:964, dim:minecraft:the_nether]
+[05May2025 00:04:41.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[05May2025 00:04:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> era la unica manera de conseguir el martillo, madre.....
+[05May2025 00:05:28.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3117ms or 62 ticks behind
+[05May2025 00:05:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Syntho has completed the challenge [The broken Nether's warmachine]
+[05May2025 00:06:06.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> estas orgulloso de mi?
+[05May2025 00:06:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> nio
+[05May2025 00:06:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> why
+[05May2025 00:06:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> kung fu panda
+[05May2025 00:06:31.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd
+[05May2025 00:06:44.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me reemplazaste por alguien llamado kung fu panda?
+[05May2025 00:06:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asies
+[05May2025 00:07:31.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> cual es tu emoji de tristeza favorito?
+[05May2025 00:07:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> el del culo sad
+[05May2025 00:07:52.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> xd cual es ese
+[05May2025 00:07:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> no se señora
+[05May2025 00:08:12.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> me mentiste?
+[05May2025 00:08:29.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:08:29.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:13:29.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:13:29.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 00:13:32.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> volvi
+[05May2025 00:13:38.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> hola tony como estas
+[05May2025 00:13:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> con un poquito de sangre en el culito pe nice
+[05May2025 00:14:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> xd
+[05May2025 00:14:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Syntho> buen gyat
+[05May2025 00:14:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> gracias
+[05May2025 00:16:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> afk
+[05May2025 00:18:29.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 00:18:29.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

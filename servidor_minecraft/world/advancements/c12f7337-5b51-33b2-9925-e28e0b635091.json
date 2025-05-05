@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-05-05 00:03:57 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
       "in_water": "2025-04-26 16:44:24 +0000"
@@ -830,6 +836,12 @@
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-05-04 18:47:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-05 00:03:16 +0000"
     },
     "done": true
   },
@@ -1291,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-04 23:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-05-02 21:00:37 +0000"
@@ -1610,6 +1628,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-05-04 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-05-05 00:05:36 +0000"
     },
     "done": true
   },

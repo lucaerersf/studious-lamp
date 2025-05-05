@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 00:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-03 17:35:50 +0000"
@@ -422,6 +428,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-01 22:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -569,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-04 21:23:19 +0000"
@@ -611,6 +629,7 @@
       "minecraft:magma_cube": "2025-05-01 22:49:08 +0000",
       "minecraft:spider": "2025-05-01 19:15:44 +0000",
       "minecraft:piglin_brute": "2025-05-03 00:11:54 +0000",
+      "minecraft:creeper": "2025-05-05 00:52:19 +0000",
       "minecraft:wither": "2025-05-04 21:25:02 +0000",
       "minecraft:evoker": "2025-05-03 23:20:52 +0000",
       "minecraft:phantom": "2025-05-04 23:49:53 +0000",
@@ -656,6 +675,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 18:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -1127,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-05-01 21:25:03 +0000"
@@ -1234,6 +1265,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-04 18:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -1403,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-26 17:00:30 +0000"
@@ -1532,6 +1575,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-04 18:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -1752,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-04 18:14:09 +0000"
@@ -1881,6 +1936,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 18:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -2058,9 +2119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-03 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -2121,6 +2194,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-03 02:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -2235,6 +2314,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-01 21:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -2706,6 +2791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-05 02:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 22:36:47 +0000"
@@ -2721,6 +2812,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-05-03 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },
@@ -2811,6 +2908,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-01 05:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-05-05 01:31:39 +0000"
     },
     "done": true
   },

@@ -3556,3 +3556,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [07May2025 15:54:03.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
 [07May2025 16:50:31.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [07May2025 16:50:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[07May2025 17:08:53.154] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ea2ef86
+[07May2025 17:08:53.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:40023] logged in with entity id 12278 at (-287.08336499567724, 119.0, -769.6392693695134)
+[07May2025 17:08:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[07May2025 17:08:53.199] [Server thread/INFO] [Jade/]: Syncing config to arturrssb (2db4fa84-9622-38a9-a29e-00f85a17602e)
+[07May2025 17:08:53.206] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[07May2025 17:08:53.219] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[07May2025 17:08:56.333] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[07May2025 17:08:56.340] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[07May2025 17:08:56.340] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[07May2025 17:08:56.340] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[07May2025 17:08:56.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[07May2025 17:09:07.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[07May2025 17:09:07.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[07May2025 17:09:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07May2025 17:09:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07May2025 17:09:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07May2025 17:09:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07May2025 17:09:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07May2025 17:09:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07May2025 17:09:14.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07May2025 17:09:14.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07May2025 17:09:15.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07May2025 17:09:15.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07May2025 17:09:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07May2025 17:09:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07May2025 17:09:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
